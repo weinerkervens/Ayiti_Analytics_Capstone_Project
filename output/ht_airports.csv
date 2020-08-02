@@ -1,0 +1,9 @@
+name,municipality,type,latitude_deg,longitude_deg,iso_country,iso_region,score
+Toussaint Louverture International Airport,Port-au-Prince,medium_airport,18.579999923706055,-72.2925033569336,HT,HT-OU,975
+Cap Haitien International Airport,Cap Haitien,medium_airport,19.733,-72.194702,HT,HT-ND,800
+Jacmel Airport,Jacmel,medium_airport,18.241100311279297,-72.51850128173828,HT,HT-SE,250
+Port-de-Paix Airport,Port-de-Paix,medium_airport,19.9335994720459,-72.84860229492188,HT,HT-NO,450
+Les Cayes Airport,Les Cayes,medium_airport,18.271099090576172,-73.78829956054688,HT,HT-SD,250
+Jérémie Airport,Jeremie,medium_airport,18.66309928894043,-74.17030334472656,HT,HT-GA,450
+Bowen Airport,Port-au-Prince,small_airport,18.560800552368164,-72.32779693603516,HT,HT-OU,50
+Anse-a-Galets Airport,Anse-a-Galets,small_airport,18.841212270800003,-72.8802323341,HT,HT-OU,0

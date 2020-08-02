@@ -1,0 +1,40 @@
+name,municipality,type,latitude_deg,longitude_deg,iso_country,iso_region,score
+Punta Cana International Airport,Punta Cana,large_airport,18.567399978599997,-68.36340332030001,DO,DO-11,875
+Las Américas International Airport,Santo Domingo,large_airport,18.42970085144,-69.668899536133,DO,DO-01,1000
+Gregorio Luperon International Airport,Puerto Plata,medium_airport,19.75790023803711,-70.56999969482422,DO,DO-18,875
+Casa De Campo International Airport,La Romana,medium_airport,18.450700759887695,-68.91179656982422,DO,DO-12,875
+Cibao International Airport,Santiago,medium_airport,19.406099319458008,-70.60469818115234,DO,DO-25,1050
+Samaná El Catey International Airport,Samana,medium_airport,19.2670001984,-69.7419967651,DO,DO-20,450
+Samana El Portillo Airport,Samana,small_airport,19.3214150435,-69.4959121943,DO,DO-20,50
+La Isabela International Airport,La Isabela,medium_airport,18.572500228881836,-69.98560333251953,DO,DO-01,875
+Arroyo Barril Airport,Arroyo Barril,small_airport,19.198600769,-69.42980194089999,DO,DO-20,250
+Boca Chica Airport,Boca Chica,small_airport,18.4507999420166,-69.59259796142578,DO,DO-01,50
+Herrera Airport,Santo Domingo,closed,18.4696998596,-69.9693984985,DO,DO-01,50
+Maria Montez International Airport,Barahona,medium_airport,18.25149917602539,-71.12039947509766,DO,DO-04,875
+Cabo Rojo Airport,Cabo Rojo,medium_airport,17.929000854492188,-71.6447982788086,DO,DO-16,250
+Azua Airport,Azua,small_airport,18.425500869750977,-70.73139953613281,DO,DO-02,50
+Consuelo Batey Anita airport,Consuelo,small_airport,18.683332443237305,-69.38333129882812,DO,DO-30,50
+Constanza - Expedición 14 de Junio National Airport,Costanza,small_airport,18.907499313354,-70.721900939941,DO,DO-13,50
+Cotui Angelina Airport,Cotui Angelina,small_airport,19.13159942626953,-70.22160339355469,DO,DO-24,50
+Dajabon Airport,Dajabon,small_airport,19.563600540200003,-71.6808013916,DO,DO-05,50
+Baigua Airport,Higuey,small_airport,18.5324,-68.67,DO,DO-11,50
+La Romana Batey Lechuga Airport,La Romana,small_airport,18.58679962158203,-69.0553970336914,DO,DO-08,50
+La Romana Batey Cacata airport,La Romana,small_airport,18.479700088500977,-68.91590118408203,DO,DO-12,50
+Monte Cristi Airport,Monte Cristi,small_airport,19.865299224900003,-71.6453018188,DO,DO-15,50
+Sabana de La Mar Airport,Sabana de La Mar,closed,19.061898,-69.385201,DO,DO-30,50
+San Isidro Air Base,San Isidro,medium_airport,18.503700256347656,-69.76170349121094,DO,DO-01,50
+San Juan Airport,San Juan,closed,18.833332061799997,-71.2333297729,DO,DO-22,50
+San Juan De La Maguana Airport,San Juan de la Maguana,small_airport,18.825500488299998,-71.2313995361,DO,DO-22,50
+San Pedro De Macoris Airport,San Pedro de Macoris,small_airport,18.44809913635254,-69.28119659423828,DO,DO-23,50
+Santiago Municipal Airport,Santiago,closed,19.4699001312,-70.7005996704,DO,DO-25,50
+Jimani Airport,,small_airport,18.49285,-71.869999,DO,DO-10,0
+Los Llanos de Sabanatosa Airport,,small_airport,18.5964259778,-69.5257759094,DO,DO-23,0
+Juancho Enriquillo Airport,Barahona,small_airport,17.8725186193,-71.2687182426,DO,DO-04,0
+Old Barahona Airport,Barahona,closed,18.215,-71.0981,DO,DO-04,0
+Barahona Heliport,Barahona,heliport,18.2131,-71.0968,DO,DO-04,0
+Magdalena Cuya Airport,La Romana,small_airport,18.501933,-68.799099,DO,DO-12,0
+El Ranchito Airport,La Vega,small_airport,19.184813237599997,-70.36496400829999,DO,DO-13,0
+Piloto Airport,Monte Cristi,small_airport,19.5977273869,-71.205970645,DO,DO-15,0
+Walterio Airport,Monte Cristi,small_airport,19.757867,-71.623482,DO,DO-15,0
+Los Montones Airport,San Cristobal,small_airport,18.521233,-70.099132,DO,DO-21,0
+Peñuela / Esperanza Field,Valverde,small_airport,19.584112247399997,-70.95672369,DO,DO-27,0
