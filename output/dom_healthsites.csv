@@ -1,0 +1,881 @@
+Name,Type,Category,Country,lat,lon,test
+Policlínica El Flumen,node,hospital,DO,19.4609532,-70.7661727,19.4609532-70.7661727
+Plaza Medica,node,hospital,DO,19.7668899,-70.5114396,19.7668899-70.5114396
+Clínica Dr. Bonilla,node,hospital,DO,19.4532772,-70.7030259,19.4532772-70.7030259
+Hospital Luis E. Aybar (Morgan),node,hospital,DO,18.4938258,-69.8907733,18.4938258-69.8907733
+Centro Médico Vista del Jardín,node,hospital,DO,18.497524,-69.9591132,18.497524-69.9591132
+Sub Centro Medico de Mata Hambre,node,hospital,DO,18.4539805,-69.9285039,18.4539805-69.9285039
+Hospital Batey 8,node,hospital,DO,18.353053,-71.2668181,18.353053-71.2668181
+unknown name,node,hospital,DO,18.4510448,-70.7393482,18.4510448-70.7393482
+Clinica Dr Baez,node,hospital,DO,18.5438802,-70.5082902,18.5438802-70.5082902
+unknown name,node,hospital,DO,19.3129159,-69.5460226,19.3129159-69.5460226
+Plaza de la Salud,node,hospital,DO,18.4887541,-69.9215767,18.4887541-69.9215767
+Hospital,node,hospital,DO,19.6752279,-70.834519,19.6752279-70.834519
+Centro de Especialidades Medica Vegano,node,hospital,DO,19.2251906,-70.5203534,19.2251906-70.5203534
+Censaide,node,hospital,DO,19.218707,-70.5344832,19.218707-70.5344832
+Hospital  Dra. Amadita,node,hospital,DO,19.2217103,-70.5400354,19.2217103-70.5400354
+Hospital Sagrado Corazon de Jesus,node,hospital,DO,18.4465403,-69.3082296,18.4465403-69.3082296
+Centro Medico Uce,node,hospital,DO,18.4473495,-69.308198,18.4473495-69.308198
+unknown name,node,hospital,DO,19.3183839,-69.5397881,19.3183839-69.5397881
+Hospital Municipal Villa fundacion,node,hospital,DO,18.2761138,-70.495845,18.2761138-70.495845
+Centro de Especiales Médicas Titi,node,hospital,DO,18.9068833,-70.7461007,18.9068833-70.7461007
+Centro de Diagnostico y Medicina Avanzada Telemedicina CEDIMAT,node,hospital,DO,18.4888229,-69.9231724,18.4888229-69.9231724
+Patologia Forense,node,hospital,DO,18.4615266,-69.9118664,18.4615266-69.9118664
+Centro Medico Dominico Cubano,node,hospital,DO,18.4593791,-69.9113814,18.4593791-69.9113814
+Centro Antirrabico,node,hospital,DO,18.4939875,-69.8995985,18.4939875-69.8995985
+Dr. Jorge Abraham Hazoury Bahles,node,hospital,DO,18.4923593,-69.9650156,18.4923593-69.9650156
+Centro de Salud Nelda Valpiana,node,hospital,DO,18.455214,-69.9856095,18.455214-69.9856095
+Hospital Octavia Gautier,node,hospital,DO,19.1244044,-70.6410698,19.1244044-70.6410698
+Instituto de Especialidades Médica,node,hospital,DO,19.3879253,-70.5255631,19.3879253-70.5255631
+Centro Médico Baez Soto,node,hospital,DO,19.2246214,-70.5225817,19.2246214-70.5225817
+Hospital Juan Antonio Castillo,node,hospital,DO,19.3196372,-70.5436789,19.3196372-70.5436789
+Centro Médico Guadalupe,node,hospital,DO,19.3925858,-70.5260364,19.3925858-70.5260364
+Hospital José Contreras,node,hospital,DO,19.4704156,-70.4513851,19.4704156-70.4513851
+Hospital Municipal,node,hospital,DO,19.6228524,-70.2728788,19.6228524-70.2728788
+Policlínica Los Lopez,node,hospital,DO,19.3970582,-70.5346509,19.3970582-70.5346509
+Clínica Dr. Paredes,node,hospital,DO,18.8441142,-70.3180411,18.8441142-70.3180411
+Hospital Municipal,node,hospital,DO,18.8445101,-70.3189746,18.8445101-70.3189746
+Hospital Pedro E. De Marcheta,node,hospital,DO,18.9369537,-70.4117612,18.9369537-70.4117612
+Hospital de Maimón,node,hospital,DO,18.9029941,-70.2674503,18.9029941-70.2674503
+Hospital Dr. Gutiérrez,node,hospital,DO,19.3405786,-70.4815132,19.3405786-70.4815132
+SESPA,node,hospital,DO,18.9361144,-70.6894519,18.9361144-70.6894519
+unknown name,node,hospital,DO,18.4296702,-70.0013371,18.4296702-70.0013371
+Hospital Dr. Ricardo Limardo,node,hospital,DO,19.7851912,-70.6883138,19.7851912-70.6883138
+Centro de Especialidades Médica Costa Norte,node,hospital,DO,19.3676871,-69.8512408,19.3676871-69.8512408
+Hospital Antonio Yapor Heded,node,hospital,DO,19.3653387,-69.850481,19.3653387-69.850481
+Dentour,node,hospital,DO,18.4580738,-69.9092146,18.4580738-69.9092146
+Dispensario Medico Gringo,node,hospital,DO,18.408967,-70.0278494,18.408967-70.0278494
+Hospital local el almirante,node,hospital,DO,18.5199345,-69.8178471,18.5199345-69.8178471
+Grupo Medico San Antonio,node,hospital,DO,19.6638257,-71.1997227,19.6638257-71.1997227
+Unidade De Atencion Primaria Hatillo Palma,node,hospital,DO,19.6654539,-71.2035599,19.6654539-71.2035599
+San Juan Hospital,node,hospital,DO,18.8026347,-71.2246227,18.8026347-71.2246227
+Laboratorio Dr Herrera Khoury,node,hospital,DO,19.2956169,-70.256731,19.2956169-70.256731
+Centro Medico Nacional,node,hospital,DO,19.2954001,-70.2551979,19.2954001-70.2551979
+INEMED,node,hospital,DO,19.2949898,-70.2570593,19.2949898-70.2570593
+Hospital Angel Concepcion,node,hospital,DO,19.3694649,-70.3539487,19.3694649-70.3539487
+Centro Medico Dr Guzman,node,hospital,DO,19.3726323,-70.3520435,19.3726323-70.3520435
+Centro Medico San Rafael,node,hospital,DO,19.3757591,-70.3514471,19.3757591-70.3514471
+Centro Medico Villa Tapia,node,hospital,DO,19.3016028,-70.4216122,19.3016028-70.4216122
+Hospital Villa Tapia,node,hospital,DO,19.3077297,-70.4221732,19.3077297-70.4221732
+Cruz Roja,node,hospital,DO,19.1168654,-69.8343859,19.1168654-69.8343859
+Cruz Roja,node,hospital,DO,19.295874,-70.257462,19.295874-70.257462
+Hospital Oncologico,node,hospital,DO,19.2772368,-70.2596183,19.2772368-70.2596183
+Hospital Municipal de Castillo,node,hospital,DO,19.2058464,-70.0247237,19.2058464-70.0247237
+Laboratorio Dr Herrea Khoury,node,hospital,DO,19.3789296,-70.4174859,19.3789296-70.4174859
+Instituto Dominicano de Cardiologia,node,hospital,DO,18.4936639,-69.9634108,18.4936639-69.9634108
+Hospital Municipal Cambita Garabitos,node,hospital,DO,18.453942,-70.197453,18.453942-70.197453
+Amerident,node,hospital,DO,18.4691708,-69.9245473,18.4691708-69.9245473
+centro medico cabarete,node,hospital,DO,19.7693506,-70.5049641,19.7693506-70.5049641
+Centro Medico Jarabacoa,node,hospital,DO,19.1204124,-70.6406324,19.1204124-70.6406324
+Institute Espaillat Cabral,node,hospital,DO,18.4599285,-69.9097132,18.4599285-69.9097132
+Centro Oriental de Ginecologia y Obstetra,node,hospital,DO,18.4975291,-69.8649702,18.4975291-69.8649702
+Centro De Rehabilitacion Fisica,node,hospital,DO,19.3046642,-70.2556454,19.3046642-70.2556454
+Medical Net,node,hospital,DO,18.471685,-69.9349479,18.471685-69.9349479
+Centro Médico Coral,node,hospital,DO,18.4310031,-68.9852134,18.4310031-68.9852134
+Centro de Especialidades Médicas,node,hospital,DO,18.4254247,-68.9670671,18.4254247-68.9670671
+Clínica,node,hospital,DO,18.7556317,-68.9204493,18.7556317-68.9204493
+Cooperativa Medica de Santiago,node,hospital,DO,19.396984,-70.6484207,19.396984-70.6484207
+unknown name,node,hospital,DO,18.5177645,-69.8587641,18.5177645-69.8587641
+Hospital Juan XXIII,node,hospital,DO,19.4268748,-70.6929461,19.4268748-70.6929461
+Emergencia 24h,node,hospital,DO,18.4535441,-69.6084633,18.4535441-69.6084633
+Clínica Nuestra Sra. De Las Mercedes,node,hospital,DO,19.0592868,-70.1483299,19.0592868-70.1483299
+Centro de Oftalmología y Glaucoma,node,hospital,DO,18.4759965,-69.9212999,18.4759965-69.9212999
+Hospital Alicia De Legendre,node,hospital,DO,19.1802427,-69.9146995,19.1802427-69.9146995
+Laboratorio Dr. Herrera Khoury,node,hospital,DO,19.2097641,-70.0282465,19.2097641-70.0282465
+Clínica La Altagracia,node,hospital,DO,19.421587,-70.689939,19.421587-70.689939
+Unidad De Atencion Primaria Los Martires,node,hospital,DO,19.4198002,-70.6916336,19.4198002-70.6916336
+Policlínica La Joya,node,hospital,DO,19.356007,-70.2798375,19.356007-70.2798375
+Hospital IDSS,node,hospital,DO,19.2800974,-70.2422096,19.2800974-70.2422096
+Hospital Las Cabuyas,node,hospital,DO,19.2242794,-70.4194196,19.2242794-70.4194196
+unknown name,node,hospital,DO,18.3670052,-68.8401416,18.3670052-68.8401416
+Centro Cardiovascular Urolaser,node,hospital,DO,18.4625565,-69.9072976,18.4625565-69.9072976
+Aeroambulancia,node,hospital,DO,18.4789239,-69.9372592,18.4789239-69.9372592
+Hospital Municipal,node,hospital,DO,18.5874597,-68.9777159,18.5874597-68.9777159
+Hospital Tamboril Dr Ico Martínez,node,hospital,DO,19.4854042,-70.6159491,19.4854042-70.6159491
+Policlínica de los Rosales,node,hospital,DO,18.611372,-68.7234174,18.611372-68.7234174
+Hospital público Inmaculada Concepción ,node,hospital,DO,19.0485779,-70.1514997,19.0485779-70.1514997
+Clínica San Judas Tadeo,node,hospital,DO,19.5563256,-71.0730991,19.5563256-71.0730991
+Clínica Perpetuo Socorro,node,hospital,DO,19.5559674,-71.072135,19.5559674-71.072135
+Hospital Jacinto Ignacio Mañón (Hospital de los Girasoles),node,hospital,DO,18.507029,-69.989163,18.507029-69.989163
+Instituto de Dermatología,node,hospital,DO,19.5547396,-71.0736642,19.5547396-71.0736642
+CECIESMED,node,hospital,DO,19.1207781,-70.2996516,19.1207781-70.2996516
+Centro Medico Quirurgico Fantino,node,hospital,DO,19.1256082,-70.29583,19.1256082-70.29583
+Hospital Municipal,node,hospital,DO,19.816924,-71.0579844,19.816924-71.0579844
+hospital san Cristóbal,node,hospital,DO,18.4160848,-70.1086935,18.4160848-70.1086935
+Cruz Roja Dominicana,node,hospital,DO,19.4490995,-70.7021516,19.4490995-70.7021516
+Instituto Dominicano De Gastroenterologia,node,hospital,DO,18.5275661,-69.9130919,18.5275661-69.9130919
+Hospimed,node,hospital,DO,19.3940144,-70.526053,19.3940144-70.526053
+Hospital IDSS,node,hospital,DO,19.5551726,-71.0764834,19.5551726-71.0764834
+Patronato Cibao de Rehabilitación Inc.,node,hospital,DO,19.4804388,-70.7159386,19.4804388-70.7159386
+Hospital Villa La Mata,node,hospital,DO,19.1002393,-70.1568135,19.1002393-70.1568135
+Clínica Bahia Azul,node,hospital,DO,19.2896869,-69.200373,19.2896869-69.200373
+Hospital Manzanillo,node,hospital,DO,19.7008442,-71.751173,19.7008442-71.751173
+Hospital Padre Enfantino,node,hospital,DO,19.8507979,-71.645159,19.8507979-71.645159
+Hospital,node,hospital,DO,18.4756149,-69.8853292,18.4756149-69.8853292
+Las monjitas,node,hospital,DO,18.5121789,-69.8622013,18.5121789-69.8622013
+Centro de Salud Fundación Activó 20-30,node,hospital,DO,18.4936362,-69.889338,18.4936362-69.889338
+Referencia Laboratorio Clínico,node,hospital,DO,19.1233957,-70.6426036,19.1233957-70.6426036
+Emergencia Hospital Robert Reid Cabral,node,hospital,DO,18.4530229,-69.9234386,18.4530229-69.9234386
+Emergencia Maternidad La Altagracia,node,hospital,DO,18.4729472,-69.9093498,18.4729472-69.9093498
+unknown name,node,hospital,DO,18.446944,-69.9646181,18.446944-69.9646181
+Emergencia Maternidad de Villa Mella,node,hospital,DO,18.5512745,-69.9006965,18.5512745-69.9006965
+Emergencia Centro Médico Dominicano,node,hospital,DO,18.4556356,-69.9561803,18.4556356-69.9561803
+Emergencia Hospital Dr. Vinicio Calventi,node,hospital,DO,18.525974,-70.0531255,18.525974-70.0531255
+Hospital Municipal,node,hospital,DO,19.4101929,-71.1622646,19.4101929-71.1622646
+Dispensario El Dean,node,hospital,DO,18.8494528,-69.8882108,18.8494528-69.8882108
+BRA,node,hospital,DO,18.8172159,-69.9130648,18.8172159-69.9130648
+Hospital Jamao al Norte,node,hospital,DO,19.6388642,-70.4469039,19.6388642-70.4469039
+Centro de Hemodiálisis Dr. Guerrero,node,hospital,DO,19.5558666,-71.0771872,19.5558666-71.0771872
+Senasa,node,hospital,DO,18.4829359,-69.9109524,18.4829359-69.9109524
+Jesús Abreu Cirugía Plástica,node,hospital,DO,19.451877,-70.6656615,19.451877-70.6656615
+Laboratorio Amadita,node,hospital,DO,19.2233312,-70.5225917,19.2233312-70.5225917
+Hospital Hato del Yaque,node,hospital,DO,19.4522996,-70.7691908,19.4522996-70.7691908
+Patronato Contra la Diabetes de Santiago,node,hospital,DO,19.4825799,-70.7229937,19.4825799-70.7229937
+Centro oriental de la diabetes,node,hospital,DO,18.502338,-69.8663721,18.502338-69.8663721
+Laboratorio Clínico Salud y Vida,node,hospital,DO,19.4586732,-70.6804982,19.4586732-70.6804982
+Ars Semma,node,hospital,DO,18.4627372,-69.9115392,18.4627372-69.9115392
+Centro Médico Haina,node,hospital,DO,18.4235861,-70.0273569,18.4235861-70.0273569
+Hospital Balsequillo,node,hospital,DO,18.4274684,-70.0338363,18.4274684-70.0338363
+Hospital DR. Jose de JS. Jimenez Almonte,node,hospital,DO,19.4868708,-70.7242291,19.4868708-70.7242291
+unknown name,node,hospital,DO,18.4205133,-68.9737318,18.4205133-68.9737318
+Medical Liaison and Veterans Assistance,node,hospital,DO,19.4581377,-70.6802032,19.4581377-70.6802032
+Servicio Nacional de Salud El Puerto,node,hospital,DO,18.7633831,-69.4625729,18.7633831-69.4625729
+unknown name,node,hospital,DO,18.4944596,-69.8822577,18.4944596-69.8822577
+Farmacia Moca,node,hospital,DO,18.4955649,-69.8832651,18.4955649-69.8832651
+Hospital Jaime Oliver Pino,node,hospital,DO,18.460517,-69.297338,18.460517-69.297338
+Hospital General Gregorio Luperon,node,hospital,DO,19.7354296,-70.6011142,19.7354296-70.6011142
+Clinica Union,node,hospital,DO,19.3750838,-69.8492485,19.3750838-69.8492485
+Multimagen Diagnóstica - Breast Center,node,hospital,DO,18.4702515,-69.9240032,18.4702515-69.9240032
+Pie Diabetico,node,hospital,DO,18.4916375,-69.9645545,18.4916375-69.9645545
+Hospital Dr. Marios Fernandez Mena,node,hospital,DO,19.2142263,-70.3540991,19.2142263-70.3540991
+unknown name,node,hospital,DO,18.8476276,-69.7743374,18.8476276-69.7743374
+Clínica Abel González,node,hospital,DO,18.4686679,-69.8948633,18.4686679-69.8948633
+Centro endoscopico digestivo integral,node,hospital,DO,18.4637324,-69.9073328,18.4637324-69.9073328
+Dr. Leopoldo Pou,node,hospital,DO,19.205298,-69.3370659,19.205298-69.3370659
+Centro Antirrabico Nacional,node,hospital,DO,18.4804588,-69.8977084,18.4804588-69.8977084
+Hospital Dr. Felix Maria Goico,node,hospital,DO,18.4899707,-69.902278,18.4899707-69.902278
+Centro de Rehabilitación,node,hospital,DO,18.9367154,-70.4122168,18.9367154-70.4122168
+International Medical Center,node,hospital,DO,18.6887489,-68.4439395,18.6887489-68.4439395
+Hospital Regional,node,hospital,DO,19.4782191,-71.3416197,19.4782191-71.3416197
+International Medical Center TCMS,node,hospital,DO,18.6895172,-68.421503,18.6895172-68.421503
+International Medical Center,node,hospital,DO,18.4480734,-69.6111138,18.4480734-69.6111138
+Centro Especializado Las Terrenas,node,hospital,DO,19.3077174,-69.547252,19.3077174-69.547252
+Unidad de Atencion Primaria (UNAP),node,hospital,DO,19.2017278,-69.445319,19.2017278-69.445319
+UNAP Vista Al Valle,node,hospital,DO,19.3133273,-70.2730309,19.3133273-70.2730309
+Clinica Arias,node,clinic,DO,18.5475381,-70.504932,18.5475381-70.504932
+Centro Medico Siglo XXI,node,clinic,DO,19.3014456,-70.258682,19.3014456-70.258682
+unknown name,node,clinic,DO,19.6139927,-70.1784347,19.6139927-70.1784347
+Clínica Dental Dra. Nieves Hidalgo Papaterra,node,clinic,DO,19.6289174,-70.2796089,19.6289174-70.2796089
+Clinica Dr. Reynoso,node,clinic,DO,19.2948859,-70.2492633,19.2948859-70.2492633
+Centro de Aguas Vivas,node,clinic,DO,18.2787983,-70.3288377,18.2787983-70.3288377
+Clinica El Maniel,node,clinic,DO,18.5430911,-70.5083458,18.5430911-70.5083458
+Hospital,node,clinic,DO,18.3886036,-71.5498474,18.3886036-71.5498474
+Ciplaci,node,clinic,DO,19.284806,-70.2801784,19.284806-70.2801784
+Centro Cardiologico Digital 3D,node,clinic,DO,18.4721201,-69.9298268,18.4721201-69.9298268
+Christian Clinic for Integrated Health,node,clinic,DO,18.8103212,-71.2410858,18.8103212-71.2410858
+Clinica de El Pinar,node,clinic,DO,18.547239,-70.5525515,18.547239-70.5525515
+Torniacero,node,clinic,DO,18.4852211,-69.9194579,18.4852211-69.9194579
+ADA Centro Diagnóstico,node,clinic,DO,18.5026716,-69.9016633,18.5026716-69.9016633
+Laboratorio Clínico Pichardo Gonzalez,node,clinic,DO,18.5023376,-69.9021463,18.5023376-69.9021463
+centro reumatologico,node,clinic,DO,18.474771,-69.9025055,18.474771-69.9025055
+Patria Rivas,node,clinic,DO,19.4580031,-70.7007436,19.4580031-70.7007436
+Centro de Vacunación Clínica Corominas,node,clinic,DO,19.4525907,-70.6997218,19.4525907-70.6997218
+Laboratorio Clinico Lidamer,node,clinic,DO,18.4755154,-69.9843866,18.4755154-69.9843866
+corominas pepin,node,clinic,DO,18.4806886,-69.9220993,18.4806886-69.9220993
+Centro Comunitario de Salud Suxual & Reproductiva,node,clinic,DO,18.4905575,-69.9027782,18.4905575-69.9027782
+Dispensario Medico Paraoquial,node,clinic,DO,18.6723099,-70.174504,18.6723099-70.174504
+Cortina Gonzalez1,node,clinic,DO,18.4949542,-69.8629532,18.4949542-69.8629532
+"Centro Medico ""Padre Fantino""",node,clinic,DO,19.224747,-70.5271502,19.224747-70.5271502
+Clinica De La Diel,node,clinic,DO,18.5237027,-70.0226245,18.5237027-70.0226245
+CEMLI - Centro Medico Dr.Liriano,node,clinic,DO,19.3448844,-70.6035423,19.3448844-70.6035423
+Clínica Dermatologica De Herrera,node,clinic,DO,18.4644292,-69.9741147,18.4644292-69.9741147
+Diagnostica SA,node,clinic,DO,18.4671137,-69.8995107,18.4671137-69.8995107
+Centro medico el vergel,node,clinic,DO,18.4726495,-69.9176368,18.4726495-69.9176368
+ginecología & otretricia,node,clinic,DO,18.4645397,-69.9003317,18.4645397-69.9003317
+CPNA Especializado y Diagnostico Inocencio Diaz Piñeyro,node,clinic,DO,18.4482409,-69.9845051,18.4482409-69.9845051
+centro medico hispánico,node,clinic,DO,18.4876775,-69.8494703,18.4876775-69.8494703
+Centro Médico Bournigal,node,clinic,DO,19.7936903,-70.6885901,19.7936903-70.6885901
+Centro de Atención Primaria,node,clinic,DO,18.7002447,-68.951786,18.7002447-68.951786
+Oftalmolaser,node,clinic,DO,19.4542084,-70.6983622,19.4542084-70.6983622
+Dermachange Clinica,node,clinic,DO,18.4741614,-69.9593164,18.4741614-69.9593164
+clínica Dr. Reyes,node,clinic,DO,18.4478177,-69.9852424,18.4478177-69.9852424
+clínica nuevo amanecer,node,clinic,DO,18.4469654,-69.9827663,18.4469654-69.9827663
+Clínica Rural,node,clinic,DO,18.8494973,-71.6292856,18.8494973-71.6292856
+unknown name,node,clinic,DO,18.4690544,-69.8997032,18.4690544-69.8997032
+fabiola uñas.,node,clinic,DO,19.4274879,-70.6710392,19.4274879-70.6710392
+Centro Médico Quirúrgico Dr. Rafael Rodríguez Colón,node,clinic,DO,19.5538843,-71.0709714,19.5538843-71.0709714
+Grupo Médico Mao,node,clinic,DO,19.5558656,-71.0774918,19.5558656-71.0774918
+Centro de atencion primaria,node,clinic,DO,19.1060203,-70.1775203,19.1060203-70.1775203
+nefrodimar,node,clinic,DO,19.7965034,-70.6923223,19.7965034-70.6923223
+unknown name,node,clinic,DO,18.4889422,-69.9220866,18.4889422-69.9220866
+MedPediátrica,node,clinic,DO,18.476723,-69.9556806,18.476723-69.9556806
+Cruz Jiminian,node,clinic,DO,18.5016114,-69.9224144,18.5016114-69.9224144
+Laboratorio Micologico,node,clinic,DO,19.4551582,-70.7033122,19.4551582-70.7033122
+unknown name,node,clinic,DO,18.4959237,-69.9247027,18.4959237-69.9247027
+"Instituto de la Diabetes, Endocrinologia y Nutrición",node,clinic,DO,18.8005033,-71.21377,18.8005033-71.21377
+Jesús Abreu Body Maker,node,clinic,DO,19.4519189,-70.6656781,19.4519189-70.6656781
+Laboratorio Clínico Puerto Plata,node,clinic,DO,19.7631222,-70.5149777,19.7631222-70.5149777
+CRESA,node,clinic,DO,19.2235547,-70.5225381,19.2235547-70.5225381
+laboratorio Referencia,node,clinic,DO,18.4357985,-69.9842,18.4357985-69.9842
+Centro Médico Herrera,node,clinic,DO,18.4517886,-69.9828454,18.4517886-69.9828454
+unknown name,node,clinic,DO,18.5435038,-69.9065901,18.5435038-69.9065901
+Laboratorio Clínico Rodríguez Taveras,node,clinic,DO,19.4775456,-71.3407128,19.4775456-71.3407128
+Medicamentos,node,clinic,DO,18.4876378,-69.8996826,18.4876378-69.8996826
+Clínica doctor arias 2,node,clinic,DO,18.4703367,-69.9954857,18.4703367-69.9954857
+Clinica Oftalmologica de Santo Domingo,node,clinic,DO,18.4623657,-69.932453,18.4623657-69.932453
+CENTRO MEDICO GRAN PODER DE DIOS,node,clinic,DO,19.4767403,-71.3420931,19.4767403-71.3420931
+Clínica Dr. Perozo,node,clinic,DO,18.6120078,-68.7194912,18.6120078-68.7194912
+Caribean plástic surgeriern,node,clinic,DO,18.5007525,-69.9516662,18.5007525-69.9516662
+Dr. Baltazar,node,clinic,DO,18.6080501,-68.7136002,18.6080501-68.7136002
+CRESA(Centro de radiología especializada),node,clinic,DO,18.4690777,-69.918445,18.4690777-69.918445
+clínica Dr.Morel,node,clinic,DO,19.4111176,-71.1547478,19.4111176-71.1547478
+CRESA (Centro de radiología especializada ),node,clinic,DO,18.4698154,-69.9172387,18.4698154-69.9172387
+Centro Diagnóstico CEDISA,node,clinic,DO,18.4632934,-69.9069095,18.4632934-69.9069095
+CEDISA (Centro de diagnostico especializado,node,clinic,DO,18.462922,-69.9068091,18.462922-69.9068091
+Clínica Rosa Benita,node,clinic,DO,19.5505759,-71.7063884,19.5505759-71.7063884
+Centro Quirurgico Dr. Jose Calderon,node,clinic,DO,18.4480122,-69.9656795,18.4480122-69.9656795
+Clinica Central Dr. Roberto Circo,node,clinic,DO,18.4476656,-69.9841553,18.4476656-69.9841553
+Red Oncológica Dominicana Integral,node,clinic,DO,19.457029,-70.6940711,19.457029-70.6940711
+centro médico contanza,node,clinic,DO,18.9094178,-70.7443057,18.9094178-70.7443057
+Centro Médico Punta Cana,node,clinic,DO,18.6857675,-68.4493663,18.6857675-68.4493663
+Clinica Los Rios,node,clinic,DO,19.1254499,-70.6401821,19.1254499-70.6401821
+Centro de Diagnóstico Integral,node,clinic,DO,18.467612,-69.8952437,18.467612-69.8952437
+profamila,node,clinic,DO,18.5019168,-69.9024736,18.5019168-69.9024736
+Centro de Promoción y Solidaridad Humana (CEPROSH),node,clinic,DO,19.7982067,-70.6917353,19.7982067-70.6917353
+Clinica profamilia,node,clinic,DO,19.4532141,-70.7082168,19.4532141-70.7082168
+Centro Clinico Dr. Polanco,node,doctors,DO,19.3052143,-69.5485134,19.3052143-69.5485134
+Cruz Roja Dominicana,node,doctors,DO,19.3155857,-71.6929207,19.3155857-71.6929207
+unknown name,node,doctors,DO,18.6870414,-68.4177832,18.6870414-68.4177832
+Servimed,node,doctors,DO,19.7496564,-70.4080355,19.7496564-70.4080355
+Instituto Oftalmológico,node,doctors,DO,19.4556638,-70.6849063,19.4556638-70.6849063
+unknown name,node,doctors,DO,18.4717668,-69.8893283,18.4717668-69.8893283
+Sociedad Dominicana de Gastroenterologia,node,doctors,DO,18.4695495,-69.9021698,18.4695495-69.9021698
+Clinica Dr. Mojica Peña,node,doctors,DO,18.4792256,-69.8902238,18.4792256-69.8902238
+Centro Dermatologico Buena Vista,node,doctors,DO,18.5297921,-69.9053751,18.5297921-69.9053751
+Sonografia,node,doctors,DO,18.5514994,-69.9006391,18.5514994-69.9006391
+Orthomedical del Cibao,node,doctors,DO,19.4543749,-70.6993457,19.4543749-70.6993457
+Centro Dermatológico Dra. Roxanna Rodríguez,node,doctors,DO,19.4592407,-70.6982556,19.4592407-70.6982556
+Sonorad Sonografia,node,doctors,DO,19.4529802,-70.7065188,19.4529802-70.7065188
+Salud Bucal,node,doctors,DO,18.4209766,-70.1143844,18.4209766-70.1143844
+Dr. Julio César Lazala,node,doctors,DO,19.4451131,-70.6715091,19.4451131-70.6715091
+Salud Integral Rodriquez Mendoza,node,doctors,DO,19.4263669,-70.6851388,19.4263669-70.6851388
+Medica GBC,node,doctors,DO,18.4491063,-69.9679631,18.4491063-69.9679631
+Sonografia Dr. Mateo,node,doctors,DO,18.5098755,-69.8675606,18.5098755-69.8675606
+Centro Medico Antillano,node,doctors,DO,18.4547381,-69.926108,18.4547381-69.926108
+Medicar GBC,node,doctors,DO,18.4347665,-69.9591625,18.4347665-69.9591625
+Clinica Dr McKinney Sonografia,node,doctors,DO,18.4349026,-69.959569,18.4349026-69.959569
+Medicar GBC,node,doctors,DO,18.4841306,-69.9251242,18.4841306-69.9251242
+Dr. Elvin Peralta,node,doctors,DO,19.2225157,-70.5330179,19.2225157-70.5330179
+Dr. Agustin Burgos,node,doctors,DO,19.2204725,-70.5232925,19.2204725-70.5232925
+Dermistetic,node,doctors,DO,18.4929494,-69.8698371,18.4929494-69.8698371
+Clínica Montesino,node,doctors,DO,19.5845137,-70.9849571,19.5845137-70.9849571
+Dr. Rosario Bautista,node,doctors,DO,18.5408735,-69.9054939,18.5408735-69.9054939
+CRESA,node,doctors,DO,19.4659694,-70.6897761,19.4659694-70.6897761
+Laboratorio beato,node,doctors,DO,18.4563333,-69.6973471,18.4563333-69.6973471
+laboratorio patria Rivas,node,doctors,DO,18.448019,-69.9612998,18.448019-69.9612998
+Centro Médico de Atención Primaria,node,doctors,DO,18.8163469,-71.2284129,18.8163469-71.2284129
+Centro de Bienestar Emocional Dr. Zoilo García,node,doctors,DO,19.4617926,-70.6930954,19.4617926-70.6930954
+Laboratorio VANTER,node,doctors,DO,18.4600683,-69.9368789,18.4600683-69.9368789
+unknown name,node,doctors,DO,18.7144136,-68.452826,18.7144136-68.452826
+Unicardio,node,doctors,DO,18.4969701,-69.8652278,18.4969701-69.8652278
+Centro De Atención Ambulatoria  CALEON,node,doctors,DO,18.4969037,-69.8651043,18.4969037-69.8651043
+Super narural,node,doctors,DO,18.4757591,-69.9327611,18.4757591-69.9327611
+Centro Diagnóstico Especializado S.A. CEDISA,node,doctors,DO,18.4955761,-69.898211,18.4955761-69.898211
+PROMEDICA,node,doctors,DO,18.4626437,-69.9050072,18.4626437-69.9050072
+CEMEDI,node,doctors,DO,18.4945704,-69.8652617,18.4945704-69.8652617
+Edificio Profesional PPA,node,doctors,DO,18.4699784,-69.949096,18.4699784-69.949096
+Ceragem,node,doctors,DO,18.4769503,-69.9704595,18.4769503-69.9704595
+Centro Gastro Diagnostico Diminicano,node,doctors,DO,18.4917383,-69.923775,18.4917383-69.923775
+Centro Oncologico Médico,node,doctors,DO,18.4636735,-69.904356,18.4636735-69.904356
+Hospital Local Las Caobas,node,doctors,DO,18.4772633,-69.9966206,18.4772633-69.9966206
+Fundación Nido para Ángeles,node,doctors,DO,18.5030545,-69.9439329,18.5030545-69.9439329
+Dieta HCG Dominicana,node,doctors,DO,18.4504818,-69.9480079,18.4504818-69.9480079
+Farmacia,node,pharmacy,DO,19.4609149,-70.6843802,19.4609149-70.6843802
+Farmacia Jorge,node,pharmacy,DO,19.451591,-70.7042984,19.451591-70.7042984
+unknown name,node,pharmacy,DO,19.447991,-70.6778764,19.447991-70.6778764
+Farmacia Restauracion,node,pharmacy,DO,19.4522592,-70.6997945,19.4522592-70.6997945
+Farmacia Carol,node,pharmacy,DO,18.4687682,-69.8942102,18.4687682-69.8942102
+unknown name,node,pharmacy,DO,18.4740936,-69.8880523,18.4740936-69.8880523
+Farmacia Rozon,node,pharmacy,DO,19.4803081,-70.7851837,19.4803081-70.7851837
+Farmacia Carol,node,pharmacy,DO,18.4713324,-69.9374243,18.4713324-69.9374243
+Farmacia Brasil,node,pharmacy,DO,18.4669418,-69.9432474,18.4669418-69.9432474
+Farmacia Lincoln,node,pharmacy,DO,18.4739892,-69.9346066,18.4739892-69.9346066
+Farmacia Carol,node,pharmacy,DO,18.4756112,-69.9233055,18.4756112-69.9233055
+Farmacia Rafelito,node,pharmacy,DO,19.4674619,-70.7000023,19.4674619-70.7000023
+Pharmacia del Pueblo,node,pharmacy,DO,18.4734076,-69.8919761,18.4734076-69.8919761
+unknown name,node,pharmacy,DO,19.7651122,-70.5159826,19.7651122-70.5159826
+Pharmacy,node,pharmacy,DO,19.8920712,-70.9619072,19.8920712-70.9619072
+unknown name,node,pharmacy,DO,19.3128223,-69.5455859,19.3128223-69.5455859
+jeantte,node,pharmacy,DO,18.5001004,-69.847565,18.5001004-69.847565
+Farmacia Romaplex,node,pharmacy,DO,18.4629457,-69.9638461,18.4629457-69.9638461
+Farmacia Ferreira,node,pharmacy,DO,19.2235292,-70.5135084,19.2235292-70.5135084
+Farmacia Del Valle,node,pharmacy,DO,19.2248056,-70.5206108,19.2248056-70.5206108
+Farmacia Olimpica 1,node,pharmacy,DO,19.2248664,-70.5227244,19.2248664-70.5227244
+Farmacia San Pancracio,node,pharmacy,DO,19.2245533,-70.5271194,19.2245533-70.5271194
+Farma Xtra,node,pharmacy,DO,18.4309345,-69.9727876,18.4309345-69.9727876
+Farmacia O&D,node,pharmacy,DO,18.4324431,-69.9656824,18.4324431-69.9656824
+unknown name,node,pharmacy,DO,19.4583791,-70.6983898,19.4583791-70.6983898
+farmacia la fuente II,node,pharmacy,DO,19.4586089,-70.700897,19.4586089-70.700897
+Farmacia Villa Fundacion,node,pharmacy,DO,18.2806929,-70.497339,18.2806929-70.497339
+Farmacia San José,node,pharmacy,DO,18.9076465,-70.74475,18.9076465-70.74475
+Carol,node,pharmacy,DO,18.4712515,-69.9141538,18.4712515-69.9141538
+Farmax,node,pharmacy,DO,18.4669715,-69.8955471,18.4669715-69.8955471
+Farmacia Europa,node,pharmacy,DO,18.4805505,-69.9286994,18.4805505-69.9286994
+Farmacia Los Hidalgos,node,pharmacy,DO,18.4847091,-69.8404105,18.4847091-69.8404105
+Farmax,node,pharmacy,DO,18.4651933,-69.928971,18.4651933-69.928971
+Farmacia Dary's,node,pharmacy,DO,19.4551883,-70.6849719,19.4551883-70.6849719
+Farmacia Rosina,node,pharmacy,DO,18.4910419,-69.904287,18.4910419-69.904287
+Farmacia Rita,node,pharmacy,DO,18.4864578,-69.9065505,18.4864578-69.9065505
+Farma Express,node,pharmacy,DO,18.5082462,-69.9483115,18.5082462-69.9483115
+Farmacia San Rafael,node,pharmacy,DO,19.7638014,-70.5140455,19.7638014-70.5140455
+Pharmacia Sosua,node,pharmacy,DO,19.7632476,-70.5164528,19.7632476-70.5164528
+Farmacia Doña Rosa,node,pharmacy,DO,18.4852176,-69.9978415,18.4852176-69.9978415
+Farmacia Romy,node,pharmacy,DO,18.4704923,-69.9727572,18.4704923-69.9727572
+Farmacia ALLAN,node,pharmacy,DO,19.3148053,-70.540369,19.3148053-70.540369
+Farmacia Las Mercedes,node,pharmacy,DO,19.2242871,-70.5295326,19.2242871-70.5295326
+Farmacia Miguelito,node,pharmacy,DO,19.1221522,-70.6419007,19.1221522-70.6419007
+Farmacia San Luís,node,pharmacy,DO,19.3659806,-69.8511614,19.3659806-69.8511614
+Botica Divino Niño,node,pharmacy,DO,19.3764334,-69.8530241,19.3764334-69.8530241
+Farmacia Nina,node,pharmacy,DO,18.4865193,-69.9015652,18.4865193-69.9015652
+Farmax,node,pharmacy,DO,18.6386773,-68.3976843,18.6386773-68.3976843
+Farmacia ALLAN,node,pharmacy,DO,19.2920916,-70.5427186,19.2920916-70.5427186
+Farmacia San Antonio,node,pharmacy,DO,19.6638581,-71.1997359,19.6638581-71.1997359
+unknown name,node,pharmacy,DO,18.3499078,-68.8290642,18.3499078-68.8290642
+Bicar Farmacia,node,pharmacy,DO,18.5459368,-70.5076345,18.5459368-70.5076345
+Farmacia Milagros,node,pharmacy,DO,18.5448005,-70.507588,18.5448005-70.507588
+Farmacia Nacional,node,pharmacy,DO,19.2979038,-70.2557218,19.2979038-70.2557218
+Farmacia Dsalud,node,pharmacy,DO,19.3016973,-70.2581647,19.3016973-70.2581647
+Farmacia Inmaculada,node,pharmacy,DO,19.2945994,-70.2545396,19.2945994-70.2545396
+Farmacia Santa Maria,node,pharmacy,DO,19.2969684,-70.255732,19.2969684-70.255732
+Farmacia San Pedro,node,pharmacy,DO,19.2988656,-70.2592046,19.2988656-70.2592046
+Farmacia San Rafael,node,pharmacy,DO,19.2948064,-70.2547054,19.2948064-70.2547054
+Farmacia Jerusalen,node,pharmacy,DO,19.2927222,-70.2586067,19.2927222-70.2586067
+Farmacia San Isidro,node,pharmacy,DO,19.3048128,-70.2561106,19.3048128-70.2561106
+Farmacia Bijao,node,pharmacy,DO,19.3271996,-70.2807332,19.3271996-70.2807332
+Farmacia Santa Ana,node,pharmacy,DO,19.3741477,-70.3517678,19.3741477-70.3517678
+Farmacia Lourdes,node,pharmacy,DO,19.3755047,-70.3517438,19.3755047-70.3517438
+Farmacia Mildeys,node,pharmacy,DO,19.3726173,-70.3503688,19.3726173-70.3503688
+Farmacia Amyn,node,pharmacy,DO,19.1320443,-70.3761386,19.1320443-70.3761386
+Farmacia Nieves Papaterra,node,pharmacy,DO,19.6288184,-70.2797139,19.6288184-70.2797139
+Farmacia Estrella,node,pharmacy,DO,19.3788943,-70.4173703,19.3788943-70.4173703
+Farmacia Santa Rosa,node,pharmacy,DO,19.3012497,-70.2584659,19.3012497-70.2584659
+Farmacia San Miguel,node,pharmacy,DO,19.1249711,-70.6402515,19.1249711-70.6402515
+Farma Xtra,node,pharmacy,DO,18.4747902,-69.9578193,18.4747902-69.9578193
+Laboratorio Referencia,node,pharmacy,DO,18.4623961,-69.957703,18.4623961-69.957703
+Farmacia Inés II,node,pharmacy,DO,18.4977334,-69.8523125,18.4977334-69.8523125
+Farmacia San Rafael,node,pharmacy,DO,18.4942334,-69.8542266,18.4942334-69.8542266
+Farmacia Patrizo,node,pharmacy,DO,18.492873,-69.8694227,18.492873-69.8694227
+Farmacia Cesar,node,pharmacy,DO,18.4944441,-69.8670379,18.4944441-69.8670379
+Farmacia Lovera,node,pharmacy,DO,19.4856756,-70.7113783,19.4856756-70.7113783
+Farmacia Ciby,node,pharmacy,DO,18.486498,-69.9022804,18.486498-69.9022804
+Farmacia Santa Ana S.R.L.,node,pharmacy,DO,18.2787298,-70.3326611,18.2787298-70.3326611
+Farmacia 1,node,pharmacy,DO,18.9058937,-70.2785989,18.9058937-70.2785989
+unknown name,node,pharmacy,DO,18.4284188,-68.9642404,18.4284188-68.9642404
+Los Hidalgos,node,pharmacy,DO,18.424271,-68.9645097,18.424271-68.9645097
+Farmacia Walmaría,node,pharmacy,DO,18.4214559,-68.963156,18.4214559-68.963156
+Farmacón,node,pharmacy,DO,18.4276402,-68.9687219,18.4276402-68.9687219
+unknown name,node,pharmacy,DO,18.4316828,-68.9728439,18.4316828-68.9728439
+Farmacia Villa Juana,node,pharmacy,DO,18.4898553,-69.906791,18.4898553-69.906791
+Farmacia Rosaura,node,pharmacy,DO,18.4232567,-68.9675569,18.4232567-68.9675569
+Farmacia Dinorah,node,pharmacy,DO,18.4221165,-68.9667146,18.4221165-68.9667146
+Farmacia Villa España,node,pharmacy,DO,18.4294401,-68.982798,18.4294401-68.982798
+Farmacia Bancola,node,pharmacy,DO,18.4308633,-68.9662006,18.4308633-68.9662006
+Farmax,node,pharmacy,DO,18.4779162,-69.9271778,18.4779162-69.9271778
+FarmaXtra Naco,node,pharmacy,DO,18.4736785,-69.9209223,18.4736785-69.9209223
+Laboratorio Referencia Don Bosco,node,pharmacy,DO,18.4756183,-69.9044479,18.4756183-69.9044479
+Laboratorio Amadita,node,pharmacy,DO,18.4709616,-69.9137383,18.4709616-69.9137383
+Laboratorio Referencia,node,pharmacy,DO,18.4666754,-69.8953786,18.4666754-69.8953786
+Farmacia Los Hidalgos,node,pharmacy,DO,18.4664223,-69.9292422,18.4664223-69.9292422
+Laboratorio Amadita,node,pharmacy,DO,18.474684,-69.9360744,18.474684-69.9360744
+Farmacia Barbara Maria,node,pharmacy,DO,18.4505206,-69.6059018,18.4505206-69.6059018
+Farmacia Otis,node,pharmacy,DO,18.4831138,-69.9031402,18.4831138-69.9031402
+Laboratorios Laaned,node,pharmacy,DO,18.4686379,-69.9274177,18.4686379-69.9274177
+Luis E. Betances,node,pharmacy,DO,18.4685552,-69.9265649,18.4685552-69.9265649
+FarmaXtra,node,pharmacy,DO,18.4742424,-69.9260499,18.4742424-69.9260499
+We Care Drug Store,node,pharmacy,DO,19.7495857,-70.4120031,19.7495857-70.4120031
+Farmacia San Rafael,node,pharmacy,DO,19.7500703,-70.4059641,19.7500703-70.4059641
+Laboratorio Doctor Collado,node,pharmacy,DO,18.479044,-69.9433526,18.479044-69.9433526
+unknown name,node,pharmacy,DO,18.4187118,-68.9657462,18.4187118-68.9657462
+Farmacia Calderon,node,pharmacy,DO,19.2966126,-70.2509499,19.2966126-70.2509499
+Farmacia Ana,node,pharmacy,DO,18.5096295,-69.8619518,18.5096295-69.8619518
+Farmacia San Luis,node,pharmacy,DO,19.3667564,-69.8514457,19.3667564-69.8514457
+Farmacia Candilejas,node,pharmacy,DO,19.0990906,-70.1670527,19.0990906-70.1670527
+farmacia almirante,node,pharmacy,DO,18.5266912,-69.8141236,18.5266912-69.8141236
+Farmacia Carol,node,pharmacy,DO,18.4692732,-69.9395159,18.4692732-69.9395159
+Pharmacia,node,pharmacy,DO,18.9021882,-70.2672049,18.9021882-70.2672049
+Telefarma,node,pharmacy,DO,18.4719918,-69.9218159,18.4719918-69.9218159
+Farmacia Miguela,node,pharmacy,DO,18.4254056,-68.9643415,18.4254056-68.9643415
+unknown name,node,pharmacy,DO,18.3680797,-68.8391907,18.3680797-68.8391907
+Farma Xtra,node,pharmacy,DO,18.475015,-69.9426084,18.475015-69.9426084
+Farmax,node,pharmacy,DO,18.4341726,-68.9937304,18.4341726-68.9937304
+Silimed,node,pharmacy,DO,18.4717657,-69.9212012,18.4717657-69.9212012
+Farmacia Puerto Rico 2,node,pharmacy,DO,18.4900397,-69.8535491,18.4900397-69.8535491
+Vitasalud,node,pharmacy,DO,19.2764139,-70.2407112,19.2764139-70.2407112
+Carxal,node,pharmacy,DO,19.4537313,-70.6858919,19.4537313-70.6858919
+Farma Xtra,node,pharmacy,DO,18.4708037,-69.8916253,18.4708037-69.8916253
+Wah Hing Trading Farmaceutica,node,pharmacy,DO,18.4787245,-69.8878172,18.4787245-69.8878172
+Farmacia Eunice,node,pharmacy,DO,18.474119,-69.893648,18.474119-69.893648
+Farmacia Thasulij,node,pharmacy,DO,18.4711528,-69.9181304,18.4711528-69.9181304
+Farmacia Caribe,node,pharmacy,DO,18.4724274,-69.8914242,18.4724274-69.8914242
+Farmacia Carol,node,pharmacy,DO,18.4770636,-69.8916656,18.4770636-69.8916656
+Farmacia Sofia,node,pharmacy,DO,18.4762687,-69.8914236,18.4762687-69.8914236
+unknown name,node,pharmacy,DO,18.4677353,-69.8942914,18.4677353-69.8942914
+Farmacia Rachell,node,pharmacy,DO,18.4736393,-69.8559789,18.4736393-69.8559789
+Farmacia Ligia,node,pharmacy,DO,18.4692458,-69.890978,18.4692458-69.890978
+Farmacia Carol,node,pharmacy,DO,18.4733577,-69.8969841,18.4733577-69.8969841
+Farmacia Aybar II D Cristian,node,pharmacy,DO,18.4812415,-69.8935932,18.4812415-69.8935932
+Farmacia San Ramón,node,pharmacy,DO,18.4791168,-69.8955638,18.4791168-69.8955638
+Farmacia Doña Chucha,node,pharmacy,DO,18.4979961,-69.8888326,18.4979961-69.8888326
+Super Farmacia El Amor de Cristo,node,pharmacy,DO,18.4624531,-69.9046367,18.4624531-69.9046367
+Farmacia Carmina,node,pharmacy,DO,18.4654584,-69.8981375,18.4654584-69.8981375
+unknown name,node,pharmacy,DO,19.4102394,-70.6404953,19.4102394-70.6404953
+Farmacia L&V,node,pharmacy,DO,18.4824282,-69.9022676,18.4824282-69.9022676
+Farmacia Europa,node,pharmacy,DO,18.4653576,-69.8176022,18.4653576-69.8176022
+Farmacia Rosa,node,pharmacy,DO,19.461321,-70.7036859,19.461321-70.7036859
+Farmacia Grecia,node,pharmacy,DO,18.4983292,-69.8917845,18.4983292-69.8917845
+Farmacia Miledy,node,pharmacy,DO,19.4348199,-70.6613832,19.4348199-70.6613832
+Farmacia ADA,node,pharmacy,DO,18.5029388,-69.9013304,18.5029388-69.9013304
+Super Farmacia Altagracia,node,pharmacy,DO,18.5023819,-69.902085,18.5023819-69.902085
+Farmacia Fantino,node,pharmacy,DO,18.4915236,-69.8980632,18.4915236-69.8980632
+Los Hidalgos,node,pharmacy,DO,18.4765448,-69.9117918,18.4765448-69.9117918
+Farmacia Shalimar's,node,pharmacy,DO,19.4598361,-70.661176,19.4598361-70.661176
+Pharma Salud,node,pharmacy,DO,19.4645043,-70.6703225,19.4645043-70.6703225
+Luz Divina,node,pharmacy,DO,18.4745252,-69.8567147,18.4745252-69.8567147
+unknown name,node,pharmacy,DO,18.4871208,-69.9142853,18.4871208-69.9142853
+Farmacia Los Multi,node,pharmacy,DO,18.5019263,-69.9152046,18.5019263-69.9152046
+unknown name,node,pharmacy,DO,18.5080009,-69.9151508,18.5080009-69.9151508
+Farma Xtra,node,pharmacy,DO,18.4839077,-69.9594988,18.4839077-69.9594988
+Farmacia Marine Cruz,node,pharmacy,DO,18.5187898,-69.9175059,18.5187898-69.9175059
+unknown name,node,pharmacy,DO,18.4756118,-69.9065325,18.4756118-69.9065325
+Farmacia Mercado,node,pharmacy,DO,19.4660603,-70.6656201,19.4660603-70.6656201
+Farmacias Fuente-San Luis,node,pharmacy,DO,19.469274,-70.7104209,19.469274-70.7104209
+Farmacia Villa Claudia,node,pharmacy,DO,18.5010424,-69.9895928,18.5010424-69.9895928
+Farmacia Ana Maria,node,pharmacy,DO,19.471028,-70.7113088,19.471028-70.7113088
+Farmacia Raymy,node,pharmacy,DO,18.5229944,-69.9152772,18.5229944-69.9152772
+Farmacia Ian,node,pharmacy,DO,18.5181072,-69.9068294,18.5181072-69.9068294
+Farmacia,node,pharmacy,DO,19.4804722,-70.7181698,19.4804722-70.7181698
+Farmacia Las 3N,node,pharmacy,DO,19.424682,-70.7126029,19.424682-70.7126029
+Farmacia San Martin,node,pharmacy,DO,18.5298736,-69.908352,18.5298736-69.908352
+Farmacia Buena Vista,node,pharmacy,DO,18.5306775,-69.906695,18.5306775-69.906695
+Botifarma,node,pharmacy,DO,18.5265549,-69.8953569,18.5265549-69.8953569
+Farmacia Rx,node,pharmacy,DO,19.473725,-70.720237,19.473725-70.720237
+Farmacia Aurora,node,pharmacy,DO,18.5384882,-69.8845274,18.5384882-69.8845274
+Farmacia Anlly,node,pharmacy,DO,19.4058431,-70.6360701,19.4058431-70.6360701
+Farmacia Los Tanquecitos,node,pharmacy,DO,18.4597604,-69.6285796,18.4597604-69.6285796
+Farmacia YNA,node,pharmacy,DO,19.4866335,-70.7188558,19.4866335-70.7188558
+unknown name,node,pharmacy,DO,18.5528129,-69.9023539,18.5528129-69.9023539
+Farmacia Inmaculada,node,pharmacy,DO,19.4545729,-70.7005633,19.4545729-70.7005633
+Farmacia Santa Lucía,node,pharmacy,DO,19.4532993,-70.6983647,19.4532993-70.6983647
+Farmacia Leticia,node,pharmacy,DO,19.454162,-70.7016421,19.454162-70.7016421
+Farmacia Grudy,node,pharmacy,DO,19.4545264,-70.7002797,19.4545264-70.7002797
+Farmacia Yulexis,node,pharmacy,DO,18.4881908,-69.8054445,18.4881908-69.8054445
+Farmacia Roland,node,pharmacy,DO,18.4787693,-69.822426,18.4787693-69.822426
+Farmacia R&E,node,pharmacy,DO,18.4773811,-69.8033676,18.4773811-69.8033676
+Farmacia Luis Miguel,node,pharmacy,DO,18.4734814,-69.7946431,18.4734814-69.7946431
+Farmacia L&J,node,pharmacy,DO,18.5538681,-69.895414,18.5538681-69.895414
+Super Farmacia Camille,node,pharmacy,DO,18.4942969,-69.8072495,18.4942969-69.8072495
+Farmacia Tony,node,pharmacy,DO,18.4809348,-69.8167361,18.4809348-69.8167361
+Farmacia Lidia,node,pharmacy,DO,19.4664427,-70.6903402,19.4664427-70.6903402
+Farmacia El Bienstar,node,pharmacy,DO,19.4685208,-70.6924107,19.4685208-70.6924107
+Farmacia Yamila,node,pharmacy,DO,18.4875535,-69.973078,18.4875535-69.973078
+Farmacia Nilda,node,pharmacy,DO,18.5444997,-69.9276938,18.5444997-69.9276938
+Farmacia Leidsa,node,pharmacy,DO,18.5410858,-69.9260764,18.5410858-69.9260764
+Farmahorro,node,pharmacy,DO,19.4530957,-70.7072923,19.4530957-70.7072923
+Farma Value,node,pharmacy,DO,19.4486011,-70.6959403,19.4486011-70.6959403
+unknown name,node,pharmacy,DO,18.5609628,-69.9370929,18.5609628-69.9370929
+Farmatodo Virginia,node,pharmacy,DO,19.4539405,-70.7055152,19.4539405-70.7055152
+Farmacia Popular Cristobal,node,pharmacy,DO,18.4224822,-70.1155136,18.4224822-70.1155136
+unknown name,node,pharmacy,DO,18.4518084,-69.9730393,18.4518084-69.9730393
+Farmacia Gio,node,pharmacy,DO,19.4450435,-70.6715713,19.4450435-70.6715713
+Farmacentro,node,pharmacy,DO,19.4510043,-70.681449,19.4510043-70.681449
+Farmacia Cuesta,node,pharmacy,DO,18.4773339,-69.9277797,18.4773339-69.9277797
+Farmacia Fontana,node,pharmacy,DO,18.5065033,-69.9586718,18.5065033-69.9586718
+Farmacias Fuente San Luis,node,pharmacy,DO,19.4555732,-70.6658922,19.4555732-70.6658922
+Farmacia Villa Olga,node,pharmacy,DO,19.4552815,-70.6751461,19.4552815-70.6751461
+Farmacia Carol,node,pharmacy,DO,18.4725628,-69.931673,18.4725628-69.931673
+Farmacia Constanza,node,pharmacy,DO,18.9089708,-70.7473402,18.9089708-70.7473402
+Farma Blue,node,pharmacy,DO,18.4754498,-69.9384637,18.4754498-69.9384637
+Farmacia Bernado,node,pharmacy,DO,18.4155099,-70.1112648,18.4155099-70.1112648
+Farma Xpress,node,pharmacy,DO,18.480288,-69.9411588,18.480288-69.9411588
+Superfarmacia Nacional,node,pharmacy,DO,19.4517793,-70.7037786,19.4517793-70.7037786
+unknown name,node,pharmacy,DO,18.497643,-69.7925482,18.497643-69.7925482
+primium,node,pharmacy,DO,18.4960761,-69.7983651,18.4960761-69.7983651
+Farmacia Cynthia,node,pharmacy,DO,18.4881378,-69.8888559,18.4881378-69.8888559
+Farmacia,node,pharmacy,DO,18.4921254,-69.8918286,18.4921254-69.8918286
+Farmacia Carol Metro Country Club,node,pharmacy,DO,18.4283097,-69.4166031,18.4283097-69.4166031
+Farmacia Luis Migel,node,pharmacy,DO,18.4734289,-69.7945719,18.4734289-69.7945719
+Farmacia Greliz,node,pharmacy,DO,18.4918257,-69.7864165,18.4918257-69.7864165
+FarmaXtra,node,pharmacy,DO,18.4765281,-69.9741763,18.4765281-69.9741763
+Farmacia Efigenia,node,pharmacy,DO,18.4763485,-69.983488,18.4763485-69.983488
+Farmacia Pujols,node,pharmacy,DO,19.4745206,-70.6765125,19.4745206-70.6765125
+Farma Xtra,node,pharmacy,DO,18.5108787,-69.8483384,18.5108787-69.8483384
+Centro Dental Stetic Plus,node,pharmacy,DO,18.5142169,-69.8435304,18.5142169-69.8435304
+Farmacia Medicar,node,pharmacy,DO,18.4616377,-69.9519751,18.4616377-69.9519751
+Farmacia Alianza,node,pharmacy,DO,19.452156,-70.7128002,19.452156-70.7128002
+Farmacias Los Pinos,node,pharmacy,DO,19.4542956,-70.702148,19.4542956-70.702148
+Farmacia Yamila,node,pharmacy,DO,18.5058073,-69.9811634,18.5058073-69.9811634
+Farmacia Los Cerros,node,pharmacy,DO,19.4704072,-70.6837668,19.4704072-70.6837668
+Farmacia GBC,node,pharmacy,DO,18.5068751,-69.9783166,18.5068751-69.9783166
+Farmahorro,node,pharmacy,DO,18.466115,-69.9538731,18.466115-69.9538731
+Farmacia Keisy Omar,node,pharmacy,DO,18.4803183,-70.0009491,18.4803183-70.0009491
+Farmacity1,node,pharmacy,DO,18.487358,-69.8340798,18.487358-69.8340798
+Nos Farma,node,pharmacy,DO,18.4859603,-69.8422075,18.4859603-69.8422075
+Farmacia Boulevar,node,pharmacy,DO,18.4807829,-69.8577813,18.4807829-69.8577813
+Farmacia Gigante,node,pharmacy,DO,18.5126906,-69.8309643,18.5126906-69.8309643
+unknown name,node,pharmacy,DO,18.4497473,-69.9670422,18.4497473-69.9670422
+Farmacia Jerding,node,pharmacy,DO,18.4627642,-69.9578894,18.4627642-69.9578894
+Farma Xtra,node,pharmacy,DO,18.4644192,-69.9582413,18.4644192-69.9582413
+Super Farmacia Felicidad,node,pharmacy,DO,18.4831314,-70.000003,18.4831314-70.000003
+ChaRxles,node,pharmacy,DO,18.4997068,-69.8238242,18.4997068-69.8238242
+Farmacia Xtra,node,pharmacy,DO,18.4863193,-69.8357979,18.4863193-69.8357979
+Farmacia Cristiana,node,pharmacy,DO,18.496802,-69.8940264,18.496802-69.8940264
+Farmacia Ines,node,pharmacy,DO,18.5026034,-69.8856288,18.5026034-69.8856288
+Farmacia Europa,node,pharmacy,DO,18.5098406,-69.866685,18.5098406-69.866685
+Farmasil,node,pharmacy,DO,18.4666628,-69.9373835,18.4666628-69.9373835
+Farmax-Pole,node,pharmacy,DO,18.4921016,-69.9322093,18.4921016-69.9322093
+Super Farmacia Sandra,node,pharmacy,DO,18.4196529,-70.1017206,18.4196529-70.1017206
+Farma Xtra,node,pharmacy,DO,18.4533171,-69.9286748,18.4533171-69.9286748
+Farmacia Santa Teresa V,node,pharmacy,DO,18.4880226,-69.9168687,18.4880226-69.9168687
+Farmacia San Cosme,node,pharmacy,DO,18.4862113,-69.9156684,18.4862113-69.9156684
+Farmacia E&G,node,pharmacy,DO,18.4852155,-69.9108926,18.4852155-69.9108926
+Super Farmacia Ritalex,node,pharmacy,DO,18.4385547,-69.951068,18.4385547-69.951068
+Farmacia Krishelle,node,pharmacy,DO,18.4343224,-69.9605844,18.4343224-69.9605844
+Farmacia Baik II,node,pharmacy,DO,18.4330917,-69.96327,18.4330917-69.96327
+Farma Xtra,node,pharmacy,DO,18.4316324,-69.9692842,18.4316324-69.9692842
+Farma Xtra,node,pharmacy,DO,18.4442124,-69.9460219,18.4442124-69.9460219
+Farm-Kar II,node,pharmacy,DO,18.4996603,-69.9189074,18.4996603-69.9189074
+Farmacia Las Flores,node,pharmacy,DO,18.5015528,-69.915714,18.5015528-69.915714
+Farmacia del Pueblo,node,pharmacy,DO,18.9370085,-70.4113571,18.9370085-70.4113571
+unknown name,node,pharmacy,DO,18.4572151,-69.9210094,18.4572151-69.9210094
+unknown name,node,pharmacy,DO,18.4870244,-69.9189554,18.4870244-69.9189554
+FarmaTem,node,pharmacy,DO,18.4853767,-69.9078191,18.4853767-69.9078191
+Farmacia Hector,node,pharmacy,DO,18.4908816,-69.9065879,18.4908816-69.9065879
+Farmacia,node,pharmacy,DO,18.6722535,-70.1745253,18.6722535-70.1745253
+Farmacia Karen,node,pharmacy,DO,18.4991441,-69.9239052,18.4991441-69.9239052
+Super Farmacia Denia,node,pharmacy,DO,18.4990699,-69.9249459,18.4990699-69.9249459
+Farmacia M&H,node,pharmacy,DO,18.4988819,-69.9280571,18.4988819-69.9280571
+Farmacia Allan,node,pharmacy,DO,19.2863046,-70.5733844,19.2863046-70.5733844
+unknown name,node,pharmacy,DO,18.4915745,-69.9299226,18.4915745-69.9299226
+Farmacia San Rafael,node,pharmacy,DO,19.2235209,-70.5324829,19.2235209-70.5324829
+Telefarma,node,pharmacy,DO,18.4911731,-69.8651631,18.4911731-69.8651631
+Farmacia Lennin,node,pharmacy,DO,18.4950002,-69.8628142,18.4950002-69.8628142
+"Farmacia ""Santo Domingo Savio""",node,pharmacy,DO,19.2256242,-70.5319033,19.2256242-70.5319033
+unknown name,node,pharmacy,DO,18.4906337,-69.8498262,18.4906337-69.8498262
+Farmacia Sebastian1,node,pharmacy,DO,18.5042563,-69.8581575,18.5042563-69.8581575
+Farmacia Eden 1,node,pharmacy,DO,18.5119773,-69.8691993,18.5119773-69.8691993
+unknown name,node,pharmacy,DO,18.5386906,-69.8610818,18.5386906-69.8610818
+Distrubuidora Farmaceutica Emmanuel,node,pharmacy,DO,18.5241028,-70.0317047,18.5241028-70.0317047
+Boti-Farma,node,pharmacy,DO,18.5395308,-69.8631613,18.5395308-69.8631613
+FarmaXtra,node,pharmacy,DO,18.4613118,-69.9113199,18.4613118-69.9113199
+Farmacia Sandomar,node,pharmacy,DO,18.4588558,-69.9166237,18.4588558-69.9166237
+Farmacia Nokaury,node,pharmacy,DO,18.4719451,-70.0035545,18.4719451-70.0035545
+Copinfa,node,pharmacy,DO,18.4811514,-69.9212798,18.4811514-69.9212798
+Laboratorio Amadita,node,pharmacy,DO,18.5359213,-69.9060947,18.5359213-69.9060947
+Farmacia Maniel,node,pharmacy,DO,18.5311562,-69.9069476,18.5311562-69.9069476
+Laboratorio Patria Rivas,node,pharmacy,DO,18.5274888,-69.9136102,18.5274888-69.9136102
+Farmacia Mima ,node,pharmacy,DO,19.0542299,-70.1528925,19.0542299-70.1528925
+Farmacia Mercury ,node,pharmacy,DO,19.4501703,-70.674517,19.4501703-70.674517
+Farmacia Rachelle ,node,pharmacy,DO,19.4618277,-70.6547176,19.4618277-70.6547176
+Farma Ahorro ,node,pharmacy,DO,19.4583086,-70.6726328,19.4583086-70.6726328
+Farmacia Feliciano,node,pharmacy,DO,19.5555676,-71.0722743,19.5555676-71.0722743
+Farmacia Mao,node,pharmacy,DO,19.5567061,-71.0728841,19.5567061-71.0728841
+Farmacia Bogaert,node,pharmacy,DO,19.555183,-71.0733589,19.555183-71.0733589
+Farmacia Rosa,node,pharmacy,DO,19.4719418,-70.6913728,19.4719418-70.6913728
+Farmahorro,node,pharmacy,DO,19.4466824,-70.6667988,19.4466824-70.6667988
+Los Hidalgo ,node,pharmacy,DO,18.4513263,-69.6722757,18.4513263-69.6722757
+EMBASSY Corporation,node,pharmacy,DO,18.4696559,-69.8864813,18.4696559-69.8864813
+Farmacia angelo,node,pharmacy,DO,18.4982332,-69.8568468,18.4982332-69.8568468
+YANNA,node,pharmacy,DO,18.5088297,-69.8386832,18.5088297-69.8386832
+Farmacia Popular,node,pharmacy,DO,19.787447,-70.6909368,19.787447-70.6909368
+Farma Value,node,pharmacy,DO,19.4639883,-70.6806253,19.4639883-70.6806253
+Farmaconal,node,pharmacy,DO,18.4562995,-69.9372499,18.4562995-69.9372499
+Farmacia Nieve,node,pharmacy,DO,19.3938968,-70.5269921,19.3938968-70.5269921
+papeleria evelyn,node,pharmacy,DO,18.4987042,-69.779351,18.4987042-69.779351
+Faarmacia  Los Jardines,node,pharmacy,DO,19.2965874,-70.4130768,19.2965874-70.4130768
+Farmacia Ruth Esther,node,pharmacy,DO,19.2995023,-70.4263289,19.2995023-70.4263289
+VIP,node,pharmacy,DO,18.5054642,-69.9364105,18.5054642-69.9364105
+Cruz roja,node,pharmacy,DO,18.5189483,-69.8497675,18.5189483-69.8497675
+Farmacia,node,pharmacy,DO,18.514743,-69.8607961,18.514743-69.8607961
+Farmacia del Sol,node,pharmacy,DO,19.4515609,-70.709395,19.4515609-70.709395
+Farmacia,node,pharmacy,DO,18.516676,-69.8622857,18.516676-69.8622857
+Farmacia luiggy,node,pharmacy,DO,18.516273,-69.8583176,18.516273-69.8583176
+Farmacia,node,pharmacy,DO,18.5121589,-69.8613592,18.5121589-69.8613592
+Farmacia Freddy,node,pharmacy,DO,18.5158142,-69.8305729,18.5158142-69.8305729
+Farmacia Carol,node,pharmacy,DO,18.448292,-69.9538843,18.448292-69.9538843
+Amadita Labortorio,node,pharmacy,DO,18.4508083,-69.9542514,18.4508083-69.9542514
+Farmacia Moncion,node,pharmacy,DO,19.4102218,-71.1624268,19.4102218-71.1624268
+unknown name,node,pharmacy,DO,18.4488073,-69.9585969,18.4488073-69.9585969
+Farma Value,node,pharmacy,DO,18.9409942,-70.4140845,18.9409942-70.4140845
+Farmacia Alfonsina,node,pharmacy,DO,19.5599624,-71.0791285,19.5599624-71.0791285
+Farmacia Crisyari,node,pharmacy,DO,18.4848214,-70.0108216,18.4848214-70.0108216
+Farmacia La Parada,node,pharmacy,DO,19.5557707,-71.0770921,19.5557707-71.0770921
+Farmacia Tropicana,node,pharmacy,DO,19.6376204,-70.4476058,19.6376204-70.4476058
+Farmacia del pueblo,node,pharmacy,DO,18.4992599,-69.8890429,18.4992599-69.8890429
+unknown name,node,pharmacy,DO,18.5018151,-69.8603389,18.5018151-69.8603389
+Brebaje Medicinales y brujeria,node,pharmacy,DO,18.5153227,-69.8602072,18.5153227-69.8602072
+Farmacia mi gloria,node,pharmacy,DO,19.4409357,-70.715462,19.4409357-70.715462
+Farmacia Medimed,node,pharmacy,DO,18.4573704,-69.9355698,18.4573704-69.9355698
+Larimax,node,pharmacy,DO,18.5305123,-69.8193587,18.5305123-69.8193587
+Farmacia Cindy,node,pharmacy,DO,19.6490139,-71.0980486,19.6490139-71.0980486
+Farmacia Del Parque,node,pharmacy,DO,19.5613954,-70.8748536,19.5613954-70.8748536
+Super Farmacia Canela Bueno,node,pharmacy,DO,19.5628901,-70.8880415,19.5628901-70.8880415
+Farmacia Samuel,node,pharmacy,DO,19.6688131,-70.368411,19.6688131-70.368411
+Chivo,node,pharmacy,DO,18.4877274,-69.8996352,18.4877274-69.8996352
+Farmacia Santa Rita,node,pharmacy,DO,19.5592105,-71.0724533,19.5592105-71.0724533
+Farmacia Nueva,node,pharmacy,DO,19.55348,-71.0784714,19.55348-71.0784714
+Farmacia Ananías,node,pharmacy,DO,19.4108471,-71.4380026,19.4108471-71.4380026
+Farmacia Rachelle,node,pharmacy,DO,19.1567138,-70.6011729,19.1567138-70.6011729
+Ecofarma,node,pharmacy,DO,19.1226481,-70.642508,19.1226481-70.642508
+Farmacia Emmy,node,pharmacy,DO,19.389674,-70.528173,19.389674-70.528173
+Farmacia Mercedes Candelier,node,pharmacy,DO,19.422803,-70.511297,19.422803-70.511297
+Farmacia Candelier,node,pharmacy,DO,19.4147795,-70.5191277,19.4147795-70.5191277
+MEDICAR GBC,node,pharmacy,DO,18.4651327,-69.974791,18.4651327-69.974791
+Farmax,node,pharmacy,DO,19.4576258,-70.6757089,19.4576258-70.6757089
+GBC,node,pharmacy,DO,18.4491148,-69.9569308,18.4491148-69.9569308
+Farmacia celicia,node,pharmacy,DO,18.5041781,-69.8718682,18.5041781-69.8718682
+Macrotech farma,node,pharmacy,DO,18.499993,-69.997458,18.499993-69.997458
+Amwey,node,pharmacy,DO,18.5000619,-69.9965028,18.5000619-69.9965028
+Farmacia Rayos de Luz,node,pharmacy,DO,19.5555996,-71.0768298,19.5555996-71.0768298
+unknown name,node,pharmacy,DO,18.5003497,-69.9073771,18.5003497-69.9073771
+unknown name,node,pharmacy,DO,18.4530632,-69.676733,18.4530632-69.676733
+Farma Value,node,pharmacy,DO,18.4525426,-69.9492347,18.4525426-69.9492347
+Farma Value,node,pharmacy,DO,18.4702102,-69.9286289,18.4702102-69.9286289
+Farma Value,node,pharmacy,DO,18.499075,-69.9206678,18.499075-69.9206678
+Farma Value,node,pharmacy,DO,18.4749295,-69.915722,18.4749295-69.915722
+unknown name,node,pharmacy,DO,19.7966019,-70.6894628,19.7966019-70.6894628
+Farmacia Rosmairy,node,pharmacy,DO,19.4697774,-70.6580911,19.4697774-70.6580911
+Farmacia Padre Las Casas,node,pharmacy,DO,19.7838121,-70.6990363,19.7838121-70.6990363
+Homs,node,pharmacy,DO,19.4357713,-70.6609827,19.4357713-70.6609827
+Farmacia Central,node,pharmacy,DO,19.3932244,-70.5274032,19.3932244-70.5274032
+Farmacia CS,node,pharmacy,DO,19.4236002,-70.4754764,19.4236002-70.4754764
+Farmacia buen pastor,node,pharmacy,DO,19.4739935,-70.6867712,19.4739935-70.6867712
+Farmacia Naraly,node,pharmacy,DO,19.3880652,-70.5303347,19.3880652-70.5303347
+farmacia eduina encarnacion,node,pharmacy,DO,18.4921985,-69.9348171,18.4921985-69.9348171
+Farmacia centro,node,pharmacy,DO,18.5103117,-69.8281292,18.5103117-69.8281292
+Farmacia centro,node,pharmacy,DO,18.5102361,-69.828162,18.5102361-69.828162
+Farmacia Carol,node,pharmacy,DO,19.7675279,-70.5074047,19.7675279-70.5074047
+Farmacia Martínez Sosa,node,pharmacy,DO,19.7687284,-70.5144807,19.7687284-70.5144807
+Farmacia San Martín,node,pharmacy,DO,18.6071018,-68.7160129,18.6071018-68.7160129
+Kayey,node,pharmacy,DO,18.4710176,-69.8498746,18.4710176-69.8498746
+Farmacia Wilmert,node,pharmacy,DO,19.5783978,-71.1628265,19.5783978-71.1628265
+Botica Hoya Del Caimito,node,pharmacy,DO,19.4635288,-70.6658988,19.4635288-70.6658988
+unknown name,node,pharmacy,DO,19.808394,-70.7132969,19.808394-70.7132969
+Farmacia Maxim,node,pharmacy,DO,18.5064116,-69.8275555,18.5064116-69.8275555
+Farmacia Sainagua,node,pharmacy,DO,18.3884773,-70.1133348,18.3884773-70.1133348
+Referencia,node,pharmacy,DO,18.4732321,-69.9293625,18.4732321-69.9293625
+Farmacia Leandro,node,pharmacy,DO,18.4481988,-69.9856717,18.4481988-69.9856717
+Farmacia Enriquillo,node,pharmacy,DO,18.4768421,-69.9720256,18.4768421-69.9720256
+Farmacia Amistad,node,pharmacy,DO,18.2834143,-70.3322512,18.2834143-70.3322512
+Farmacia Dr. Chelin,node,pharmacy,DO,19.5507617,-71.7060564,19.5507617-71.7060564
+Farmacia La Nueva,node,pharmacy,DO,19.058199,-70.1526449,19.058199-70.1526449
+Farmacia Carxol,node,pharmacy,DO,19.2030248,-69.3378288,19.2030248-69.3378288
+Farmacia Asilis Javier,node,pharmacy,DO,18.4476481,-69.9840244,18.4476481-69.9840244
+unknown name,node,pharmacy,DO,18.4880559,-69.9388362,18.4880559-69.9388362
+Carol,node,pharmacy,DO,18.4735095,-69.9308343,18.4735095-69.9308343
+Farmacia Karen Paola,node,pharmacy,DO,18.5205481,-69.8047889,18.5205481-69.8047889
+Enriquillo union trabajo,node,pharmacy,DO,18.4772618,-69.9720884,18.4772618-69.9720884
+MELIDA,node,pharmacy,DO,18.8082321,-71.2250289,18.8082321-71.2250289
+ENRIQUILLO,node,pharmacy,DO,18.8135688,-71.232085,18.8135688-71.232085
+ISAMAL,node,pharmacy,DO,18.8129281,-71.2330955,18.8129281-71.2330955
+EL CARMEN,node,pharmacy,DO,18.8065075,-71.2333971,18.8065075-71.2333971
+SAN RAMON,node,pharmacy,DO,18.8074303,-71.2303815,18.8074303-71.2303815
+YANY,node,pharmacy,DO,18.8074538,-71.229874,18.8074538-71.229874
+ERIDANIA,node,pharmacy,DO,18.8215942,-71.2353462,18.8215942-71.2353462
+ROSA AURA 2,node,pharmacy,DO,18.4509594,-70.7389743,18.4509594-70.7389743
+SUPER FARMACIA PEGUERO CASTRO,node,pharmacy,DO,18.4500338,-70.7312031,18.4500338-70.7312031
+NURYS,node,pharmacy,DO,18.2052991,-71.1011113,18.2052991-71.1011113
+DOTEL,node,pharmacy,DO,18.2078464,-71.0991544,18.2078464-71.0991544
+www,node,pharmacy,DO,18.565804,-69.9033033,18.565804-69.9033033
+BUENAVENTURA,node,pharmacy,DO,18.5822455,-69.9195108,18.5822455-69.9195108
+shaia,node,pharmacy,DO,18.5312806,-69.8002896,18.5312806-69.8002896
+MARCHI,node,pharmacy,DO,18.5529825,-69.9075725,18.5529825-69.9075725
+ENMANUEL,node,pharmacy,DO,18.475479,-69.9861582,18.475479-69.9861582
+MARIANNY,node,pharmacy,DO,18.4687295,-69.9898569,18.4687295-69.9898569
+ENERCIDA,node,pharmacy,DO,18.5111317,-69.86308,18.5111317-69.86308
+POSIBLE CAROLINA,node,pharmacy,DO,18.5087139,-69.8655116,18.5087139-69.8655116
+euridice,node,pharmacy,DO,18.5112553,-69.8436399,18.5112553-69.8436399
+Patricia2,node,pharmacy,DO,18.495149,-69.9081743,18.495149-69.9081743
+virgen maria,node,pharmacy,DO,18.4687342,-69.8877704,18.4687342-69.8877704
+Josefina,node,pharmacy,DO,18.4717226,-69.8893257,18.4717226-69.8893257
+LUZ,node,pharmacy,DO,18.4312808,-68.9767077,18.4312808-68.9767077
+RADONAEL,node,pharmacy,DO,18.426318,-68.9815604,18.426318-68.9815604
+FARMACIA LOPEZ,node,pharmacy,DO,18.4277883,-68.9730617,18.4277883-68.9730617
+bella vista,node,pharmacy,DO,18.6201954,-68.7229339,18.6201954-68.7229339
+feliu,node,pharmacy,DO,18.6237318,-68.7158111,18.6237318-68.7158111
+BERARCA,node,pharmacy,DO,18.6092994,-68.7216805,18.6092994-68.7216805
+COOPERATIVA SAN JOSE,node,pharmacy,DO,18.7694096,-70.0245515,18.7694096-70.0245515
+DILONE II,node,pharmacy,DO,18.7750912,-70.0266358,18.7750912-70.0266358
+GALENO,node,pharmacy,DO,18.7761592,-70.0271233,18.7761592-70.0271233
+DIMAR,node,pharmacy,DO,18.7168342,-69.9703585,18.7168342-69.9703585
+farmacia popular,node,pharmacy,DO,18.5156713,-69.8389869,18.5156713-69.8389869
+Mauricio baez,node,pharmacy,DO,18.4883717,-69.9134735,18.4883717-69.9134735
+unknown name,node,pharmacy,DO,18.486343,-69.9088357,18.486343-69.9088357
+ramses,node,pharmacy,DO,18.500411,-69.9048357,18.500411-69.9048357
+Yuclenia,node,pharmacy,DO,18.6726041,-70.1739749,18.6726041-70.1739749
+Silibe,node,pharmacy,DO,18.6864435,-70.1754318,18.6864435-70.1754318
+Anjura,node,pharmacy,DO,18.6732657,-70.1675955,18.6732657-70.1675955
+Farmatex 360,node,pharmacy,DO,18.547386,-69.9008131,18.547386-69.9008131
+Del barrio,node,pharmacy,DO,18.5341192,-69.9385542,18.5341192-69.9385542
+Habana,node,pharmacy,DO,18.476124,-69.9028512,18.476124-69.9028512
+Villa,node,pharmacy,DO,18.5380684,-69.940926,18.5380684-69.940926
+Espinal,node,pharmacy,DO,18.5043969,-69.8671901,18.5043969-69.8671901
+LOS MINA,node,pharmacy,DO,18.5031098,-69.8644645,18.5031098-69.8644645
+FARMAVITAL,node,pharmacy,DO,18.501976,-69.8677605,18.501976-69.8677605
+CHABELA,node,pharmacy,DO,18.5069994,-69.8696286,18.5069994-69.8696286
+Rowifarma,node,pharmacy,DO,18.5097006,-69.8601357,18.5097006-69.8601357
+TURINA,node,pharmacy,DO,18.4847696,-69.8270276,18.4847696-69.8270276
+palmar encantado,node,pharmacy,DO,18.5440312,-69.8655883,18.5440312-69.8655883
+monterrey,node,pharmacy,DO,18.5427923,-69.879251,18.5427923-69.879251
+maria auxiliadora,node,pharmacy,DO,18.5407507,-69.8647335,18.5407507-69.8647335
+ysa,node,pharmacy,DO,18.4938709,-69.8158941,18.4938709-69.8158941
+elsa,node,pharmacy,DO,18.4931014,-69.8109159,18.4931014-69.8109159
+rosyel,node,pharmacy,DO,18.4974103,-69.7937891,18.4974103-69.7937891
+filadelfia,node,pharmacy,DO,18.4980253,-69.7867636,18.4980253-69.7867636
+yunkiel,node,pharmacy,DO,18.4907559,-69.8337648,18.4907559-69.8337648
+mayel,node,pharmacy,DO,18.4904745,-69.841133,18.4904745-69.841133
+rusbert-yu,node,pharmacy,DO,18.5042332,-69.8501936,18.5042332-69.8501936
+NICOMAR,node,pharmacy,DO,18.5166041,-69.8512295,18.5166041-69.8512295
+EUROPA,node,pharmacy,DO,18.5205674,-69.8447354,18.5205674-69.8447354
+karen-paola,node,pharmacy,DO,18.5075103,-69.8485858,18.5075103-69.8485858
+KEYLA,node,pharmacy,DO,18.5044236,-69.8462952,18.5044236-69.8462952
+JAFREISY,node,pharmacy,DO,18.5380766,-69.8132946,18.5380766-69.8132946
+SANTO DOMINGO,node,pharmacy,DO,18.8063922,-71.2299345,18.8063922-71.2299345
+CENTRO,node,pharmacy,DO,18.8075379,-71.2271227,18.8075379-71.2271227
+CATANO,node,pharmacy,DO,18.4522708,-70.7358699,18.4522708-70.7358699
+ANA ISABEL,node,pharmacy,DO,18.2055332,-71.094894,18.2055332-71.094894
+SAMERY,node,pharmacy,DO,18.5662668,-69.9090478,18.5662668-69.9090478
+PAREDES,node,pharmacy,DO,18.5591241,-69.6994758,18.5591241-69.6994758
+PONCE,node,pharmacy,DO,18.5618941,-69.7029435,18.5618941-69.7029435
+MIRANDA,node,pharmacy,DO,18.8086832,-71.2313219,18.8086832-71.2313219
+MAYCORT,node,pharmacy,DO,18.8192114,-71.2340252,18.8192114-71.2340252
+VILLA OFELIA,node,pharmacy,DO,18.8074456,-71.220518,18.8074456-71.220518
+SANTOME,node,pharmacy,DO,18.8063288,-71.2296659,18.8063288-71.2296659
+SUPER FARMACIA SILDIA,node,pharmacy,DO,18.8023351,-71.2229755,18.8023351-71.2229755
+MARIA VIRGEN MELO,node,pharmacy,DO,18.8123339,-71.221103,18.8123339-71.221103
+ADRIANA,node,pharmacy,DO,18.4566947,-70.7261148,18.4566947-70.7261148
+MINERVA,node,pharmacy,DO,18.4535475,-70.7320108,18.4535475-70.7320108
+DILANIA,node,pharmacy,DO,18.4525887,-70.734213,18.4525887-70.734213
+SAN MARCOS,node,pharmacy,DO,18.451197,-70.7322453,18.451197-70.7322453
+MERCEDES,node,pharmacy,DO,18.4519421,-70.7282798,18.4519421-70.7282798
+MARISOL,node,pharmacy,DO,18.4533145,-70.7496945,18.4533145-70.7496945
+ROSA,node,pharmacy,DO,18.452984,-70.7379251,18.452984-70.7379251
+RAN,node,pharmacy,DO,18.4547274,-70.6450264,18.4547274-70.6450264
+NAYARIT,node,pharmacy,DO,18.4496047,-70.6192105,18.4496047-70.6192105
+LAS 5 ESQUINAS,node,pharmacy,DO,18.455684,-70.7448574,18.455684-70.7448574
+MENDEZ C POR A,node,pharmacy,DO,18.2053009,-71.0962669,18.2053009-71.0962669
+LEMBERT,node,pharmacy,DO,18.2073751,-71.094871,18.2073751-71.094871
+MI BOTICA POPULAR,node,pharmacy,DO,18.20376,-71.0950244,18.20376-71.0950244
+VILLA ESTELA,node,pharmacy,DO,18.2048999,-71.0973012,18.2048999-71.0973012
+FELLITO,node,pharmacy,DO,18.207496,-71.0974114,18.207496-71.0974114
+ercilia,node,pharmacy,DO,18.5026714,-69.8705917,18.5026714-69.8705917
+les enfant de job,node,pharmacy,DO,18.5649862,-69.9070435,18.5649862-69.9070435
+OBED,node,pharmacy,DO,18.5717909,-69.9152542,18.5717909-69.9152542
+NIQUIN,node,pharmacy,DO,18.5796597,-69.9196659,18.5796597-69.9196659
+Ponce,node,pharmacy,DO,18.563403,-69.7036402,18.563403-69.7036402
+JUANER,node,pharmacy,DO,18.8170624,-71.226917,18.8170624-71.226917
+BRENDA,node,pharmacy,DO,18.2038066,-71.0934,18.2038066-71.0934
+HILDA,node,pharmacy,DO,18.4523682,-69.9892844,18.4523682-69.9892844
+lizmary,node,pharmacy,DO,18.5283884,-69.8123228,18.5283884-69.8123228
+DANIA,node,pharmacy,DO,18.4554304,-69.9777653,18.4554304-69.9777653
+SHARLYN,node,pharmacy,DO,18.4708719,-69.9854594,18.4708719-69.9854594
+YAROMIK,node,pharmacy,DO,18.4798255,-69.9749099,18.4798255-69.9749099
+LAS PALMAS,node,pharmacy,DO,18.4769477,-69.9815944,18.4769477-69.9815944
+Nemesis,node,pharmacy,DO,18.4932415,-69.9996467,18.4932415-69.9996467
+CAMINO DIVINO,node,pharmacy,DO,18.4545965,-69.9826146,18.4545965-69.9826146
+CHARO,node,pharmacy,DO,18.4812695,-69.9772286,18.4812695-69.9772286
+YUDERKA,node,pharmacy,DO,18.5119712,-69.8612818,18.5119712-69.8612818
+luis miguel,node,pharmacy,DO,18.4874455,-69.8055552,18.4874455-69.8055552
+Luisa,node,pharmacy,DO,18.4978345,-69.9057804,18.4978345-69.9057804
+Collado,node,pharmacy,DO,18.4904984,-69.9109871,18.4904984-69.9109871
+mazara,node,pharmacy,DO,18.6116956,-68.7105378,18.6116956-68.7105378
+michell,node,pharmacy,DO,18.6078562,-68.7115008,18.6078562-68.7115008
+dimar,node,pharmacy,DO,18.7380283,-70.0006357,18.7380283-70.0006357
+RAUDYS,node,pharmacy,DO,18.7664029,-70.0226633,18.7664029-70.0226633
+miguelina,node,pharmacy,DO,18.4964928,-69.9070844,18.4964928-69.9070844
+Evelyn ll,node,pharmacy,DO,18.4769028,-69.8763686,18.4769028-69.8763686
+Bartolina,node,pharmacy,DO,18.5412518,-69.9382935,18.5412518-69.9382935
+Rubi,node,pharmacy,DO,18.5344563,-69.9402796,18.5344563-69.9402796
+Kirsys,node,pharmacy,DO,18.5406351,-69.9314542,18.5406351-69.9314542
+Deiny 2,node,pharmacy,DO,18.5427931,-69.9394907,18.5427931-69.9394907
+JOVANNY,node,pharmacy,DO,18.5003579,-69.8633852,18.5003579-69.8633852
+elida,node,pharmacy,DO,18.5275775,-69.8755863,18.5275775-69.8755863
+vinyvic,node,pharmacy,DO,18.5288171,-69.8700354,18.5288171-69.8700354
+sanchez mieses,node,pharmacy,DO,18.4921281,-69.8147385,18.4921281-69.8147385
+santa monica,node,pharmacy,DO,18.4884158,-69.8314286,18.4884158-69.8314286
+MARIA LUISA,node,pharmacy,DO,18.5227406,-69.8418791,18.5227406-69.8418791
+mendoza,node,pharmacy,DO,18.4988076,-69.83256,18.4988076-69.83256
+luz betania,node,pharmacy,DO,18.5014451,-69.8200184,18.5014451-69.8200184
+NUEVA ERA,node,pharmacy,DO,18.5038037,-69.8256806,18.5038037-69.8256806
+MAXIM,node,pharmacy,DO,18.5054108,-69.8270237,18.5054108-69.8270237
+divina misericordia,node,pharmacy,DO,18.5225703,-69.799118,18.5225703-69.799118
+jehova,node,pharmacy,DO,18.5426606,-69.8023004,18.5426606-69.8023004
+ISHTAR,node,pharmacy,DO,18.5396894,-69.8128517,18.5396894-69.8128517
+Gilda,node,pharmacy,DO,18.4873664,-69.9099231,18.4873664-69.9099231
+Guarocuya,node,pharmacy,DO,18.4886762,-69.9067305,18.4886762-69.9067305
+YANILSY,node,pharmacy,DO,18.4714456,-69.7345507,18.4714456-69.7345507
+Alejandrina,node,pharmacy,DO,18.5425959,-69.9280533,18.5425959-69.9280533
+Lhumy pharma,node,pharmacy,DO,18.5113213,-69.8598899,18.5113213-69.8598899
+TRINY,node,pharmacy,DO,18.5091186,-69.8631104,18.5091186-69.8631104
+los mellos,node,pharmacy,DO,18.5374625,-69.8694784,18.5374625-69.8694784
+susan y geraldine,node,pharmacy,DO,18.5210692,-69.8515413,18.5210692-69.8515413
+la hermosa,node,pharmacy,DO,18.4392012,-68.9749384,18.4392012-68.9749384
+FARMACIA JASPE,node,pharmacy,DO,18.4541618,-69.0130758,18.4541618-69.0130758
+vademecun,node,pharmacy,DO,18.5107952,-69.8337642,18.5107952-69.8337642
+Nectarina,node,pharmacy,DO,18.4428176,-69.9862753,18.4428176-69.9862753
+worldwide,node,pharmacy,DO,18.4357733,-69.9699468,18.4357733-69.9699468
+Alquimia,node,pharmacy,DO,18.6761245,-70.1754794,18.6761245-70.1754794
+Peter,node,pharmacy,DO,18.5617746,-69.9151463,18.5617746-69.9151463
+Farma new,node,pharmacy,DO,18.5466373,-69.9162346,18.5466373-69.9162346
+Elite,node,pharmacy,DO,18.541565,-69.9353143,18.541565-69.9353143
+Jevi,node,pharmacy,DO,18.4779894,-69.9001073,18.4779894-69.9001073
+Ruth isabel,node,pharmacy,DO,18.5590595,-69.8917833,18.5590595-69.8917833
+ENERCIDA,node,pharmacy,DO,18.5053252,-69.8631996,18.5053252-69.8631996
+ludiam 2,node,pharmacy,DO,18.5483753,-69.8555519,18.5483753-69.8555519
+MARIA,node,pharmacy,DO,18.5074942,-69.868953,18.5074942-69.868953
+tito 4to,node,pharmacy,DO,18.5229329,-69.8516764,18.5229329-69.8516764
+D Y M,node,pharmacy,DO,18.4997335,-69.8373297,18.4997335-69.8373297
+unknown name,node,pharmacy,DO,18.4873669,-69.9636907,18.4873669-69.9636907
+Farmacia Giovanny,node,pharmacy,DO,18.9449948,-69.7921334,18.9449948-69.7921334
+Farm. Maximo gomez,node,pharmacy,DO,18.5522716,-69.8610033,18.5522716-69.8610033
+Pharmatech,node,pharmacy,DO,18.4636863,-69.9103277,18.4636863-69.9103277
+Reyes,node,pharmacy,DO,18.4752664,-69.7373125,18.4752664-69.7373125
+Farmacia,node,pharmacy,DO,18.4839605,-69.9771158,18.4839605-69.9771158
+unknown name,node,pharmacy,DO,18.4034503,-70.10531,18.4034503-70.10531
+Victoria Yeb S.A,node,pharmacy,DO,19.4492448,-70.6488481,19.4492448-70.6488481
+Farmacia,node,pharmacy,DO,19.485418,-70.7342775,19.485418-70.7342775
+Farmacia monterico,node,pharmacy,DO,19.4841297,-70.7379833,19.4841297-70.7379833
+Farmacia Carol,node,pharmacy,DO,18.4458896,-69.9687577,18.4458896-69.9687577
+Farmacia Alberto II,node,pharmacy,DO,19.7523682,-70.5198274,19.7523682-70.5198274
+Farmacia Beaton,node,pharmacy,DO,19.7455917,-70.5294035,19.7455917-70.5294035
+Farma Ariel,node,pharmacy,DO,19.7394857,-70.6016884,19.7394857-70.6016884
+Gran Poder de Dios,node,pharmacy,DO,19.476645,-71.3409857,19.476645-71.3409857
+Farmacia,node,pharmacy,DO,19.4768618,-71.3401185,19.4768618-71.3401185
+Omayra 2,node,pharmacy,DO,18.4498592,-69.6383858,18.4498592-69.6383858
+Santa tejeda,node,pharmacy,DO,18.4542032,-69.639437,18.4542032-69.639437
+Marfiel,node,pharmacy,DO,18.5350842,-69.8954373,18.5350842-69.8954373
+Farmacia Amor,node,pharmacy,DO,18.5024388,-69.8172644,18.5024388-69.8172644
+Lc911,node,pharmacy,DO,18.5232189,-69.8176216,18.5232189-69.8176216
+Luz bethania,node,pharmacy,DO,18.5047096,-69.8221268,18.5047096-69.8221268
+Villa esperanza,node,pharmacy,DO,18.521073,-69.8187005,18.521073-69.8187005
+La misericordia,node,pharmacy,DO,18.5314803,-69.8110029,18.5314803-69.8110029
+Dona juana,node,pharmacy,DO,18.5357278,-69.8234059,18.5357278-69.8234059
+Gosen,node,pharmacy,DO,18.5252653,-69.809157,18.5252653-69.809157
+Saona,node,pharmacy,DO,18.5212821,-69.8176295,18.5212821-69.8176295
+Invivienda,node,pharmacy,DO,18.5141411,-69.8205355,18.5141411-69.8205355
+Farmacia,node,pharmacy,DO,19.2970384,-70.2606819,19.2970384-70.2606819
+Salud y bie n,node,pharmacy,DO,18.4966283,-69.9058848,18.4966283-69.9058848
+Iris,node,pharmacy,DO,18.5450954,-69.9310435,18.5450954-69.9310435
+Carmen elena,node,pharmacy,DO,18.5306334,-69.9231499,18.5306334-69.9231499
+Kenyi,node,pharmacy,DO,18.5374607,-69.9329167,18.5374607-69.9329167
+Pendiente,node,pharmacy,DO,18.5385982,-69.9381494,18.5385982-69.9381494
+Pinto,node,pharmacy,DO,18.5227226,-69.916393,18.5227226-69.916393
+B rochit,node,pharmacy,DO,18.5410252,-69.8723613,18.5410252-69.8723613
+FARMACIA JUMAR,node,pharmacy,DO,18.5337552,-69.9428501,18.5337552-69.9428501
+Farmacia Carol,node,pharmacy,DO,18.4589138,-69.9105025,18.4589138-69.9105025
+unknown name,node,pharmacy,DO,18.4739224,-69.8837421,18.4739224-69.8837421
+unknown name,node,pharmacy,DO,19.3213166,-69.5406522,19.3213166-69.5406522
+Estrella,node,pharmacy,DO,18.687491,-68.4449519,18.687491-68.4449519
+Farnmacia Vista al Valle,node,pharmacy,DO,19.3118744,-70.2672331,19.3118744-70.2672331
+Farmacia Norte,node,pharmacy,DO,19.2994057,-70.2596651,19.2994057-70.2596651
+Farmacia alyali,node,pharmacy,DO,19.4536329,-70.7102338,19.4536329-70.7102338
+Farmacia Yamila,node,pharmacy,DO,18.488514,-69.9646121,18.488514-69.9646121
