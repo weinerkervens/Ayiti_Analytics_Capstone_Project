@@ -1,0 +1,33 @@
+adm0code,Province,ADM2_REF.1,Capital,Area (km²)[5],Population[4],Density[5],address,lat,lon,confirmed,recovered,deaths
+DO,Azua,Provincia Azua,Azua,2531.77,298246,118,"Azua, República Dominicana",18.5767929,-70.8334767,22,1,1
+DO,Baoruco,Provincia Baoruco,Neiba,1282.23,111269,87,"Baoruco, República Dominicana",18.48945765,-71.33084683913694,4,1,0
+DO,Barahona,Provincia Barahona,Barahona,1739.38,232818,134,"Barahona, República Dominicana",18.1714805,-71.20953,25,1,1
+DO,Dajabón,Provincia Dajabon,Dajabón,1020.73,87274,86,"Dajabón, República Dominicana",19.4586934,-71.6022958,1,0,0
+DO,Distrito Nacional,Distrito Nacional,Santo Domingo,104.44,1402749,13431,"Distrito Nacional, República Dominicana",18.48525785,-69.92990811529472,1198,191,30
+DO,Duarte,Provincia Duarte,San Francisco de Macorís,1605.35,338649,211,"Duarte, República Dominicana",19.243456,-70.087743,461,34,68
+DO,El Seibo,Provincia El Seibo,El Seibo,1786.8,110212,62,"El Seibo, República Dominicana",18.741363149999998,-69.0310696984435,4,0,0
+DO,Elías Piña,Provincia Elias Pina,Comendador,1426.2,84632,59,"Elías Piña, República Dominicana",18.9952542,-71.6959479,0,0,0
+DO,Espaillat,Provincia Espaillat,Moca,838.62,333401,398,"Espaillat, República Dominicana",19.5766693,-70.4819641,137,1,4
+DO,Hato Mayor,Provincia Hato Mayor,Hato Mayor,1329.29,103032,78,"Hato Mayor, República Dominicana",18.8677631,-69.3520365,9,0,1
+DO,Hermanas Mirabal,Provincia Hermanas Mirabal,Salcedo,440.43,121887,277,"Hermanas Mirabal, República Dominicana",19.4089668,-70.3928405,121,5,9
+DO,Independencia,Provincia Independencia,Jimaní,2006.44,74583,37,"Independencia, República Dominicana",18.3839463,-71.6385932,1,1,0
+DO,La Altagracia,Provincia La Altagracia,Higüey,3010.34,372289,124,"La Altagracia, República Dominicana",18.5823788,-68.6587525,90,5,1
+DO,La Romana,Provincia La Romana,La Romana,653.95,344580,527,"La Romana, República Dominicana",18.4975148,-68.9766638,89,4,2
+DO,La Vega,Provincia La Vega,Concepción de La Vega,2287.24,447905,196,"La Vega, República Dominicana",19.0520669,-70.6316324,330,11,2
+DO,María Trinidad Sánchez,Provincia Maria Trinidad Sanchez,Nagua,1271.71,195886,154,"María Trinidad Sánchez, República Dominicana",19.4445984,-69.9844683,64,3,2
+DO,Monseñor Nouel,Provincia Monsenor Nouel,Bonao,992.39,203183,205,"Monseñor Nouel, República Dominicana",18.8820257,-70.418098,133,3,3
+DO,Monte Cristi,Provincia Monte Cristi,Monte Cristi,1924.35,150833,78,"Monte Cristi, República Dominicana",19.7230154,-71.4465463,15,1,0
+DO,Monte Plata,Provincia Monte Plata,Monte Plata,2632.14,222641,85,"Monte Plata, 92000, República Dominicana",18.7597477,-69.83897761760709,11,0,3
+DO,Pedernales,Provincia Pedernales,Pedernales,2074.53,52165,25,"Pedernales, República Dominicana",17.9584646,-71.5325569,3,0,0
+DO,Peravia,Provincia Peravia,Baní,792.33,217241,274,"Peravia, República Dominicana",18.3309575,-70.3712349,34,0,1
+DO,Puerto Plata,Provincia Puerto Plata,Puerto Plata,1852.9,498232,269,"Puerto Plata, República Dominicana",19.7444333,-70.8000756,143,4,9
+DO,Samaná,Provincia Samana,Samaná,853.74,139707,164,"Samaná, República Dominicana",19.2648113,-69.4930017,19,5,1
+DO,San Cristóbal,Provincia San Cristobal,San Cristóbal,1265.77,640066,506,"San Cristóbal, República Dominicana",18.5200904,-70.2076771,114,4,3
+DO,San José de Ocoa,Provincia San Jose de Ocoa,San José de Ocoa,855.4,97640,114,"San José de Ocoa, República Dominicana",18.6107158,-70.4979261,4,0,2
+DO,San Juan,Provincia San Juan,San Juan de la Maguana,3569.39,317293,89,"San Juan, República Dominicana",18.87967,-71.2862706,32,1,3
+DO,San Pedro de Macorís,Provincia San Pedro de Macoris,San Pedro de Macorís,1255.46,392911,313,"San Pedro de Macorís, República Dominicana",18.5116478,-69.4799563,53,6,7
+DO,Sánchez Ramírez,Provincia Sanchez Ramirez,Cotuí,1196.13,248807,208,"Sánchez Ramírez, República Dominicana",19.0176147,-70.1448351,118,2,5
+DO,Santiago,Provincia Santiago,Santiago de los Caballeros,2836.51,1543362,544,"Santiago, República Dominicana",19.3286702,-70.9033942,594,34,28
+DO,Santiago Rodríguez,Provincia Santiago Rodriguez,Sabaneta,1111.14,99044,89,"Santiago Rodríguez, República Dominicana",19.3830877,-71.3100122,16,0,0
+DO,Santo Domingo,Provincia Santo Domingo,Santo Domingo Este,1296.35,3263053,2517,"Santo Domingo, Santo Domingo de Guzmán, Distrito Nacional, 10129, República Dominicana",18.4801972,-69.942111,807,43,34
+DO,Valverde,Provincia Valverde,Mao,823.38,217026,264,"Valverde, República Dominicana",19.5820464,-71.0461119,28,2,1
